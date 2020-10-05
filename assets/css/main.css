@@ -1,0 +1,277 @@
+/* CATCH ALL */
+
+* {
+	padding: 0;
+	margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 15px;
+
+
+}
+
+body {
+  background-color: white;
+  color: black;
+  font-family: arial, helvetica, sans-serif;
+  line-height: 1.2;
+}
+
+.fixed-position {
+  position: fixed;
+}
+
+
+.up--title {
+  text-transform: uppercase;
+}
+
+a , .project-text-link span {
+  text-decoration: none;
+  color: black;
+  cursor: pointer !important;
+}
+
+.text-link--external, .caption-link--external {
+  text-decoration: underline;
+}
+
+.nav-link:hover {
+  text-decoration: underline blue;
+  cursor: pointer;
+}
+
+.nav-link , .project-title , .about-item--left {
+  font-family: arial, helvetica, sans-serif;
+  text-transform: uppercase !important;
+  line-height: 1.4;
+}
+
+.header-content__container , .popup__container--about {
+  padding: 25px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+
+}
+
+
+/* HEADER */
+
+.header-content__container {
+  padding: 15px 25px 15px 25px;
+  background-color: white;
+  border-bottom: 1.2px solid black;
+  position: relative;
+}
+
+.header-item--right .nav-link {
+  margin-left: 20px;
+}
+
+.flex-item--left {
+  text-align: left;
+}
+
+.flex-item--right {
+  text-align: right;
+}
+
+.header-item--left {
+  flex: 0 0 25%;
+}
+
+.header-item--right {
+  flex: 0 0 75%;
+}
+
+.about-item--left {
+  flex: 0 0 65%;
+}
+
+.about-item--right {
+  flex: 0 0 35%;
+}
+
+
+/* .popup__container--about a , .popup__container--about span {
+  color: black;
+}
+
+.popup__container--about {
+  background-color: white;
+  color: black;
+  height: 950px;
+  display: none;
+  z-index: 99999;
+  position: fixed;
+} */
+
+
+
+.slider {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: block;
+  background-color: white;
+  border-bottom: 1.2px solid black;
+}
+
+.slide__container {
+  overflow:hidden;
+  width: 1000%;
+  margin: 5px 0 5px 0;
+}
+
+.slide-item {
+  font-size: .75em;
+  list-style: none;
+  display: inline-block;
+  padding: 0 30px;
+}
+
+
+
+/* WORK SIDEBAR */
+
+.main-content__container {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  /* flex-direction: row; */
+  /* background-color: pink; */
+}
+
+.main-content-item--left {
+  flex: 1 1 20%;
+  /* background-color: yellow; */
+}
+
+.main-content-item--right {
+  flex: 4 4 80%;
+  /* background-color: green; */
+}
+
+.sidebar__container {
+  height: 100vh;
+  display: inline-block;
+  left: 0;
+  overflow-y: scroll;
+  background-color: white;
+  border-right: 1.2px solid black;
+}
+
+.side-nav-item__link , .up--title.small{
+  font-size: .7em;
+}
+
+.canvas__container {
+  height: 100vh;
+  overflow-y: scroll;
+  margin-bottom: 25px;
+  /* background-color: green; */
+}
+
+.side-nav-item__container , .canvas-item__container {
+  width: 100%;
+  /* background-color: red; */
+}
+
+.canvas-item__container {
+
+}
+
+.spacer {
+  bottom: 0;
+  margin: 15px 25px 15px 25px;
+  /* background-color: pink; */
+}
+
+
+/* PROJECT INDEX – FILTER */
+
+span.filter {
+  padding-right: 10px;
+  cursor: pointer;
+}
+
+.highlight {
+  font-style: italic;
+}
+
+/* span.all--filter {
+  padding-left: 10px;
+} */
+
+
+/* .index-list--grid {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+} */
+
+
+.wrapper--grid {
+  /* background-color: grey; */
+  /* display: flex;
+  flex-wrap: wrap; */
+  /* column-gap: 15px; */
+  /* height: 1500px; */
+}
+
+.index-item {
+  /* background-color: pink; */
+  display: inline-block;
+}
+
+.item--null , .item--image {
+  width: 165px;
+  height: 165px;
+  border: 1.2px solid black;
+  margin-right: 15px;
+}
+
+.item--null {
+  display: none;
+  background: linear-gradient(to top right, #fff calc(50% - .8px), black, #fff calc(50% + .8px) )
+}
+
+.item--image img {
+  /* margin-top: -1px; */
+  width: 100%;
+  height: 100%;
+  filter: grayscale(1);
+  cursor: pointer;
+}
+
+.item--image img:hover {
+  filter: grayscale(0);
+}
+
+.item--caption {
+  margin: 15px 0 25px 0;
+}
+
+.show {
+  display: block;
+}
+
+.hide {
+  display: none;
+}
+
+
+
+
+/* SWIRL BG */
+
+.p5Canvas {
+
+}
+
+#defaultCanvas0 {
+
+}
