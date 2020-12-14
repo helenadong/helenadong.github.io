@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
   	<meta name="viewport" content="width=device-width,initial-scale=1">
-    <title>Project Test</title>
+    <title>Vogue US</title>
 
     <meta name="title" content="HOME">
     <meta name="description" content="">
@@ -19,6 +19,7 @@
 
     <link rel="stylesheet" href="assets/css/_normalize.css" type="text/css">
     <link rel="stylesheet" href="assets/css/reset.css" type="text/css">
+    <link rel="stylesheet" href="assets/css/font.css" type="text/css">
   	<link rel="stylesheet" href="assets/css/main.css" type="text/css">
     <link rel="stylesheet" href="assets/css/mob-styles.css" type="text/css">
 
@@ -31,7 +32,7 @@
 
 
 
-  <body>
+  <body class="vogue-us--page">
 
 
   <div class="fixed-position">
@@ -39,14 +40,15 @@
 
     <main-header class="header"></main-header>
 
-
     <div class="main-content__container">
 
-      <div class="static--thumbnail"><img src="assets/images/hd_vogueus_thumbnail_1.jpg" alt=""></div>
-      <div class="static--footer">
+      <div class="static--thumbnail">
+        <img src="assets/images/vogue-us/hd_vogueus_thumbnail_1.jpg" alt="">
+      </div>
+      <!-- <div class="static--footer">
         Thumbnail / Editorial photograph, Carlijn Jacobs <br>
         Photos & Demo video / Mika Schneider
-      </div>
+      </div> -->
 
       <div class="main-content-item--left sidebar__container">
         <sidebar-content></sidebar-content>
@@ -56,12 +58,15 @@
 
         <div class="canvas-item__container project">
           <div class="spacer">
-            <div class="text-block">
-                <span class="up--title large">Vogue US / </span>
-                <span class="lc--title large">Vogue x Ms. Iyaaa</span>
-              <br><br>
 
-              AR &nbsp; . &nbsp; Beauty &nbsp; . &nbsp; Fashion &nbsp;(2020)<br><br>
+            <div class="text-block">
+              <span class="up--title large">Vogue US / Vogue x Ms. Iyaaa</span>
+              <br><br>
+              <span class="up--title category">AR</span>.&nbsp;
+              <span class="up--title category">Beauty</span>.&nbsp;
+              <span class="up--title category">Fashion</span>.&nbsp;
+              <span class="up--title category">(2020)</span>
+              <br><br>
 
               Ms. Iyaaa x Vogue was American Vogue’s first AR enhancement for an editorial.
               <br><br>
@@ -80,25 +85,26 @@
               </div>
 
               <div class="col w-1of2">
-                <video src="assets/images/vogue-us/hd_vogueus_demo.mp4" autoplay muted loop poster="posterimage.jpg"></video>
+                <video src="assets/images/vogue-us/hd_vogueus_demo.mp4" autoplay muted loop poster=""></video>
               </div>
 
               <div class="col w-1of2">
                 <img src="assets/images/vogue-us/hd_vogueus_2.jpg" alt="">
               </div>
-
             </div>
 
+
+            <div class="text-block">
+              Thumbnail / Editorial photograph, Carlijn Jacobs <br>
+              Photos & Demo video / Mika Schneider
+            </div>
 
           </div>
         </div>
 
-
-
-        </div>
-
       </div>
 
+    </div>
 
 
   </div>

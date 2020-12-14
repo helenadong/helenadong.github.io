@@ -4,7 +4,7 @@ $(document).ready(function() {
   /* NAV BAR: ASSIGN AUDIO */
 
   var sideNavItem1 = document.createElement('audio');
-  sideNavItem1.setAttribute('src', 'assets/audio/ufo.mp3' , type="audio/mpeg");
+  sideNavItem1.setAttribute('src', 'assets/audio/ufo.mp3' , type="audio/mpeg" , preload="auto");
   $.get();
   sideNavItem1.addEventListener("load", function() {
     sideNavItem1.play();
