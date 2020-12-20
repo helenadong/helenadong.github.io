@@ -11,6 +11,7 @@ html {
 }
 
 body {
+	cursor:url('../images/utilities/cursor.png'), auto  !important;
   background-color: white;
   color: black;
   font-family: 'Nimbus Sans L', arial, helvetica, sans-serif;
@@ -24,12 +25,13 @@ body {
 a {
   text-decoration: none;
   color: black;
-  cursor: pointer !important;
 }
 
+a:hover,
 .nav-link:hover,
-.text-link:hover {
-  cursor: pointer;
+.text-link:hover,
+span.filter:hover {
+  cursor:url('../images/utilities/cursor_link.png'), auto  !important;
 }
 
 .ital {
@@ -285,8 +287,8 @@ a {
 
 /* PROJECT INDEX – FILTER */
 
-span.filter {
-  cursor: pointer;
+span.filter:hover {
+  cursor:url('../images/utilities/cursor_link.png'), auto  !important;
 }
 
 span.category {
@@ -345,7 +347,7 @@ span.category {
 .item--image img {
   width: 100%;
   height: 100%;
-  cursor: pointer;
+	cursor:url('../images/utilities/cursor_link.png'), auto  !important;
 }
 
 
