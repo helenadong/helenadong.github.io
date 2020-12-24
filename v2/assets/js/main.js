@@ -45,22 +45,28 @@ $(function(){
     <ul class="slide__container">
       <li class="slide-item" >
           (∩◕‿◕)っ━☆ﾟ.*･ﾟ &nbsp; . &nbsp; hello@helenadong.com &nbsp; . &nbsp; Design & Creative Technology &nbsp; . &nbsp;
-      </li>
-      <li class="slide-item">
+          (∩◕‿◕)っ━☆ﾟ.*･ﾟ &nbsp; . &nbsp; hello@helenadong.com &nbsp; . &nbsp; Design & Creative Technology &nbsp; . &nbsp;
+          (∩◕‿◕)っ━☆ﾟ.*･ﾟ &nbsp; . &nbsp; hello@helenadong.com &nbsp; . &nbsp; Design & Creative Technology &nbsp; . &nbsp;
           (∩◕‿◕)っ━☆ﾟ.*･ﾟ &nbsp; . &nbsp; hello@helenadong.com &nbsp; . &nbsp; Design & Creative Technology &nbsp; . &nbsp;
       </li>
       <li class="slide-item">
           (∩◕‿◕)っ━☆ﾟ.*･ﾟ &nbsp; . &nbsp; hello@helenadong.com &nbsp; . &nbsp; Design & Creative Technology &nbsp; . &nbsp;
+          (∩◕‿◕)っ━☆ﾟ.*･ﾟ &nbsp; . &nbsp; hello@helenadong.com &nbsp; . &nbsp; Design & Creative Technology &nbsp; . &nbsp;
+          (∩◕‿◕)っ━☆ﾟ.*･ﾟ &nbsp; . &nbsp; hello@helenadong.com &nbsp; . &nbsp; Design & Creative Technology &nbsp; . &nbsp;
+          (∩◕‿◕)っ━☆ﾟ.*･ﾟ &nbsp; . &nbsp; hello@helenadong.com &nbsp; . &nbsp; Design & Creative Technology &nbsp; . &nbsp;
       </li>
-      <li class="slide-item">
+      <!-- <li class="slide-item">
           (∩◕‿◕)っ━☆ﾟ.*･ﾟ &nbsp; . &nbsp; hello@helenadong.com &nbsp; . &nbsp; Design & Creative Technology &nbsp; . &nbsp;
       </li>
       <li class="slide-item">
           (∩◕‿◕)っ━☆ﾟ.*･ﾟ &nbsp; . &nbsp; hello@helenadong.com &nbsp; . &nbsp; Design & Creative Technology &nbsp; . &nbsp;
+      </li> -->
+      <!-- <li class="slide-item">
+          (∩◕‿◕)っ━☆ﾟ.*･ﾟ &nbsp; . &nbsp; hello@helenadong.com &nbsp; . &nbsp; Design & Creative Technology &nbsp; . &nbsp;
       </li>
       <li class="slide-item">
           (∩◕‿◕)っ━☆ﾟ.*･ﾟ &nbsp; . &nbsp; hello@helenadong.com &nbsp; . &nbsp; Design & Creative Technology &nbsp; . &nbsp;
-      </li>
+      </li> -->
 
     </ul>
   </div>

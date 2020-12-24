@@ -11,7 +11,7 @@ window.requestAnimationFrame = (function() {
     };
 })();
 
-var speed = 15000;
+var speed = 45000;
 (function bioSlide() {
   var lineWidth = $('.slide-item:first-child').outerWidth();
   $(".slide__container").animate({
