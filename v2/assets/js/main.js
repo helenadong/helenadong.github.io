@@ -17,14 +17,14 @@ $(function(){
   connectedCallback() {
   this.innerHTML = `
 
-  <head>
+  <!-- <head>
     <style type="text/css">
       li.slide-item {
         font-size: 1px !important;
         background-color: pink;
       }
     </style>
-  </head>
+  </head> -->
 
 
   <div class="header-content__container">

@@ -124,10 +124,10 @@ body {
 }
 
 
-/* li.slide-item {
-  font-size: 10px !important;
+li.slide-item {
+  font-size: 5px !important;
   background-color: blue;
-} */
+}
 
 .header-content__container {
   padding: 15px;
