@@ -127,10 +127,8 @@ body {
   width: 2000%;
 }
 
-li.slide-item {
-  font-size: 9px !important;
-  background-color: magenta;
-  display: inline-block !important;
+.slide-item {
+  font-size: 10px !important;
 }
 
 .header-content__container {
