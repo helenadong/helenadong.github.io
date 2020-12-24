@@ -126,7 +126,8 @@ body {
 
 li.slide-item {
   font-size: 9px !important;
-  background-color: red;
+  background-color: orange;
+  display: inline-block !important;
 }
 
 .header-content__container {
