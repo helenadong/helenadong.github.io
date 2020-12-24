@@ -17,6 +17,15 @@ $(function(){
   connectedCallback() {
   this.innerHTML = `
 
+  <head>
+    <style type="text/css">
+      li.slide-item {
+        font-size: 10px !important;
+        background-color: yellow;
+      }
+    </style>
+  </head>
+
 
   <div class="header-content__container">
 
