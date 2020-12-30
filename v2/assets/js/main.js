@@ -43,25 +43,21 @@ $(function(){
 
   <div class='slider'>
     <ul class="slide__container">
-      <li class="slide-item" >
-          (∩◕‿◕)っ━☆ﾟ.*･ﾟ &nbsp; . &nbsp; hello@helenadong.com &nbsp; . &nbsp; Design & Creative Technology &nbsp; . &nbsp;
-      </li>
-      <li class="slide-item">
-          (∩◕‿◕)っ━☆ﾟ.*･ﾟ &nbsp; . &nbsp; hello@helenadong.com &nbsp; . &nbsp; Design & Creative Technology &nbsp; . &nbsp;
-      </li>
-      <li class="slide-item">
-          (∩◕‿◕)っ━☆ﾟ.*･ﾟ &nbsp; . &nbsp; hello@helenadong.com &nbsp; . &nbsp; Design & Creative Technology &nbsp; . &nbsp;
-      </li>
-      <li class="slide-item">
-          (∩◕‿◕)っ━☆ﾟ.*･ﾟ &nbsp; . &nbsp; hello@helenadong.com &nbsp; . &nbsp; Design & Creative Technology &nbsp; . &nbsp;
-      </li>
-      <li class="slide-item">
-          (∩◕‿◕)っ━☆ﾟ.*･ﾟ &nbsp; . &nbsp; hello@helenadong.com &nbsp; . &nbsp; Design & Creative Technology &nbsp; . &nbsp;
-      </li>
-      <li class="slide-item">
-          (∩◕‿◕)っ━☆ﾟ.*･ﾟ &nbsp; . &nbsp; hello@helenadong.com &nbsp; . &nbsp; Design & Creative Technology &nbsp; . &nbsp;
-      </li>
-
+    <li class="slide-item" style="font-size: 9px;">
+        DESIGNER  &nbsp; ⮂  &nbsp; CREATIVE TECHNOLOGIST &nbsp; ⇥ &nbsp; HELLO@HELENADONG.COM &nbsp; &nbsp;
+    </li>
+    <li class="slide-item" style="font-size: 9px;">
+        DESIGNER  &nbsp; ⮂  &nbsp; CREATIVE TECHNOLOGIST &nbsp; ⇥ &nbsp; HELLO@HELENADONG.COM &nbsp; &nbsp;
+    </li>
+    <li class="slide-item" style="font-size: 9px;">
+        DESIGNER  &nbsp; ⮂  &nbsp; CREATIVE TECHNOLOGIST &nbsp; ⇥ &nbsp; HELLO@HELENADONG.COM &nbsp; &nbsp;
+    </li>
+    <li class="slide-item" style="font-size: 9px;">
+        DESIGNER  &nbsp; ⮂  &nbsp; CREATIVE TECHNOLOGIST &nbsp; ⇥ &nbsp; HELLO@HELENADONG.COM &nbsp; &nbsp;
+    </li>
+    <li class="slide-item" style="font-size: 9px;">
+        DESIGNER  &nbsp; ⮂  &nbsp; CREATIVE TECHNOLOGIST &nbsp; ⇥ &nbsp; HELLO@HELENADONG.COM &nbsp; &nbsp;
+    </li>
     </ul>
   </div>
 
@@ -71,7 +67,7 @@ $(function(){
     <div class="flex-item--left work-item--left">
         <span class="nav-link nav-link--close">Close X</span><br><br><br>
 
-        <span class="up--title large work-category">Selected Commissions</span><br><br>
+        <span class="up--title large work-category">Collaborations</span><br><br>
 
         <div class="side-nav-item__link">
           <a class="odda" href="./project-test.html">Odda Korea Drops</a>
@@ -99,12 +95,6 @@ $(function(){
         </div>
         <div class="side-nav-item__link">
           <a class="peter-do" href="./project-test.html">Peter Do Hearts</a>
-        </div>
-        <div class="side-nav-item__link">
-          <a class="vfiles" href="./project-test.html">Vfiles Bang Bop</a>
-        </div>
-        <div class="side-nav-item__link">
-          <a class="far-near" href="./project-test.html">Far-Near Physiognomy</a>
         </div>
         <div class="side-nav-item__link">
           <a class="vaquera" href="./project-test.html">Vaquera Heartbeat</a>
@@ -156,7 +146,7 @@ $(function(){
 
         <div class="side-nav-item__container">
           <div class="spacer">
-            <span class="up--title large">Selected Commissions</span> <br><br>
+            <span class="up--title large">Collaborations</span> <br><br>
 
             <div class="side-nav-item__link">
               <a class="side-nav-item-1 odda" href="./project-test.html">Odda Korea Drops</a>
@@ -186,13 +176,7 @@ $(function(){
               <a class="side-nav-item-9 peter-do" href="./project-test.html">Peter Do Hearts</a>
             </div>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-10 vfiles" href="./project-test.html">Vfiles Bang Bop</a>
-            </div>
-            <div class="side-nav-item__link">
-              <a class="side-nav-item-11 far-near" href="./project-test.html">Far-Near Physiognomy</a>
-            </div>
-            <div class="side-nav-item__link">
-              <a class="side-nav-item-12 vaquera" href="./project-test.html">Vaquera Heartbeat</a>
+              <a class="side-nav-item-10 vaquera" href="./project-test.html">Vaquera Heartbeat</a>
             </div>
 
             <br><br>
@@ -200,16 +184,16 @@ $(function(){
             <span class="up--title large">Personal</span><br><br>
 
             <div class="side-nav-item__link">
-              <a class="side-nav-item-13 ar-effects" href="./project-test.html">Augmented Reality Effects</a>
+              <a class="side-nav-item-11 ar-effects" href="./project-test.html">Augmented Reality Effects</a>
             </div><br>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-14 scbc" href="./project-test.html">Scissors, Calculator and a Beige Coat</a>
+              <a class="side-nav-item-12 scbc" href="./project-test.html">Scissors, Calculator and a Beige Coat</a>
             </div>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-15 pondering" href="./project-test.html">Pondering Gestures</a>
+              <a class="side-nav-item-13 pondering" href="./project-test.html">Pondering Gestures</a>
             </div>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-16 exercise-no-1" href="./project-test.html">Exercise N<span class="glyph">o</span>. 1</a>
+              <a class="side-nav-item-14 exercise-no-1" href="./project-test.html">Exercise N<span class="glyph">o</span>. 1</a>
             </div>
 
 
