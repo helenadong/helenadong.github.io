@@ -112,7 +112,7 @@ span.filter:hover {
 }
 
 .slide-item {
-
+	font-size: 12px;
 	text-transform: uppercase;
   list-style: none;
   display: inline-block !important;
