@@ -128,7 +128,14 @@ body {
 }
 
 .slide-item {
-  font-size: 10px !important;
+  font-size: 1em !important;
+}
+
+.nav-link,
+.project-title,
+.up--title.large,
+.lc--title.large {
+	font-size: 1.3em !important;
 }
 
 .header-content__container {

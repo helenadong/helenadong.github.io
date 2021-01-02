@@ -52,7 +52,7 @@ span.filter:hover {
 .project-title,
 .up--title.large,
 .lc--title.large {
-	font-size: 1.3em;
+	font-size: 1.3em !important;
 	line-height: 1.4;
 }
 
