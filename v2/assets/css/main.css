@@ -162,30 +162,29 @@ span.filter:hover {
   /* background-color: pink; */
 }
 
+.main-content__container .sidebar__container,
+.main-content__container .canvas__container {
+	height: 92vh;
+	overflow: scroll;
+}
+
 .main-content-item--left {
   flex: 1 1 20%;
-  /* background-color: yellow; */
 }
 
 .main-content-item--right {
   flex: 4 4 80%;
-  /* background-color: green; */
 }
 
 .sidebar__container {
-  height: 100vh;
   display: inline-block;
   left: 0;
-  overflow-y: scroll;
   background-color: white;
   border-right: 1.2px solid black;
 }
 
 .canvas__container {
-  height: 100vh;
-  overflow-y: scroll;
-  margin-bottom: 25px;
-  /* background-color: green; */
+
 }
 
 .sidebar__container::-webkit-scrollbar,
@@ -210,10 +209,9 @@ span.filter:hover {
 	margin-bottom: 50px;
 }
 
+
 .spacer {
-  /* bottom: 50px; */
   margin: 15px;
-  /* background-color: pink; */
 }
 
 .text-block,
@@ -223,7 +221,7 @@ span.filter:hover {
 
 .text-block,
 .media-block {
-	padding-bottom: 25px;
+	padding-bottom: 15px;
 }
 
 
@@ -241,6 +239,11 @@ span.filter:hover {
 .col {
 	padding-right: 7px;
 	padding-bottom: 7px;
+}
+
+.col:nth-last-child(1),
+.text-block:nth-last-child(1) {
+	padding-bottom: 0px;
 }
 
 
@@ -311,7 +314,7 @@ span.category {
 } */
 
 .wrapper--grid {
-	margin-bottom: 80px;
+	margin-bottom: 15px;
   /* background-color: grey; */
   /* display: flex;
   flex-wrap: wrap; */
@@ -386,21 +389,4 @@ span.category {
   opacity: 0;
   position: absolute;
   visibility: hidden;
-}
-
-
-
-
-
-
-
-
-/* SWIRL BG */
-
-.p5Canvas {
-
-}
-
-#defaultCanvas0 {
-
 }
