@@ -11,6 +11,10 @@ and (max-width : 1160px) {
   /* background-color: green; */
 }
 
+.popup__container--work-nav {
+  display: none;
+}
+
 }
 
 
