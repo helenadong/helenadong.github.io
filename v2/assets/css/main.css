@@ -333,19 +333,11 @@ span.category {
 .item--caption {
   width: 165px;
   height: 165px;
-
+	margin-right: 15px;
+	margin-bottom: 15px;
 	/* border: 1.2px solid black; */
 }
 
-.item--null,
-.item--image {
-	margin-right: 15px;
-	margin-bottom: 15px;
-}
-
-.item--caption {
-	margin-bottom: 15px;
-}
 
 .item--null {
 	border: 1.2px solid black;
@@ -399,11 +391,11 @@ span.category {
 	position: relative;
 }
 
-.wrapper p {
+.wrapper .item--caption {
 	display: none;
 }
 
-.wrapper:hover p {
+.wrapper:hover .item--caption {
 	display: block;
 }
 
