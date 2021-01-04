@@ -52,21 +52,21 @@ $(function(){
 
   <div class='slider'>
     <ul class="slide__container">
-    <li class="slide-item">
-        DESIGNER  &nbsp; ⮂  &nbsp; CREATIVE TECHNOLOGIST &nbsp; ⇥ &nbsp; HELLO@HELENADONG.COM &nbsp; &nbsp;
-    </li>
-    <li class="slide-item">
-        DESIGNER  &nbsp; ⮂  &nbsp; CREATIVE TECHNOLOGIST &nbsp; ⇥ &nbsp; HELLO@HELENADONG.COM &nbsp; &nbsp;
-    </li>
-    <li class="slide-item">
-        DESIGNER  &nbsp; ⮂  &nbsp; CREATIVE TECHNOLOGIST &nbsp; ⇥ &nbsp; HELLO@HELENADONG.COM &nbsp; &nbsp;
-    </li>
-    <li class="slide-item">
-        DESIGNER  &nbsp; ⮂  &nbsp; CREATIVE TECHNOLOGIST &nbsp; ⇥ &nbsp; HELLO@HELENADONG.COM &nbsp; &nbsp;
-    </li>
-    <li class="slide-item">
-        DESIGNER  &nbsp; ⮂  &nbsp; CREATIVE TECHNOLOGIST &nbsp; ⇥ &nbsp; HELLO@HELENADONG.COM &nbsp; &nbsp;
-    </li>
+      <li class="slide-item">
+          DESIGNER &nbsp; ⮂ &nbsp; CREATIVE TECHNOLOGIST &nbsp; ⇥ &nbsp; HELLO@HELENADONG.COM
+      </li>
+      <li class="slide-item">
+          DESIGNER &nbsp; ⮂ &nbsp; CREATIVE TECHNOLOGIST &nbsp; ⇥ &nbsp; HELLO@HELENADONG.COM
+      </li>
+      <li class="slide-item">
+          DESIGNER &nbsp; ⮂ &nbsp; CREATIVE TECHNOLOGIST &nbsp; ⇥ &nbsp; HELLO@HELENADONG.COM
+      </li>
+      <li class="slide-item">
+          DESIGNER &nbsp; ⮂ &nbsp; CREATIVE TECHNOLOGIST &nbsp; ⇥ &nbsp; HELLO@HELENADONG.COM
+      </li>
+      <li class="slide-item">
+          DESIGNER &nbsp; ⮂ &nbsp; CREATIVE TECHNOLOGIST &nbsp; ⇥ &nbsp; HELLO@HELENADONG.COM
+      </li>
     </ul>
   </div>
 

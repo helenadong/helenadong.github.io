@@ -11,10 +11,6 @@ and (max-width : 1160px) {
   /* background-color: green; */
 }
 
-.popup__container--work-nav {
-  display: none;
-}
-
 }
 
 
@@ -133,6 +129,7 @@ body {
 
 .slide-item {
   font-size: 1em !important;
+  padding-left: 200px;
 }
 
 .nav-link,

@@ -116,7 +116,7 @@ span.filter:hover {
 	text-transform: uppercase;
   list-style: none;
   display: inline-block !important;
-  /* padding: 0 10px; */
+  padding-left: 500px;
 }
 
 
