@@ -172,9 +172,8 @@ body {
   margin-top: 15px;
 }
 
-.static--footer {
-  right: 15px;
-  bottom: 15px;
+.op-sketch {
+	height: 850px;
 }
 
 /* Show mobile work navigation */

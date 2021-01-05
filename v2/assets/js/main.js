@@ -205,7 +205,6 @@ $(function(){
               <a class="side-nav-item-14 exercise-no-1" href="./project-test.html">Exercise N<span class="glyph">o</span>. 1</a>
             </div>
 
-
           </div>
         </div>
 
@@ -229,8 +228,6 @@ $(function(){
       $('.slider').addClass('hide');
       $('.main-content__container').addClass('hide');
       $('.popup__container--work-nav').addClass('show');
-      $('body').addClass('bg-color-change');
-
   });
 
   $('.nav-link--close').click(function() {
@@ -238,7 +235,6 @@ $(function(){
       $('.header-content__container').removeClass('hide');
       $('.slider').removeClass('hide');
       $('.main-content__container').removeClass('hide');
-      $('body').removeClass('bg-color-change');
   });
 
 
