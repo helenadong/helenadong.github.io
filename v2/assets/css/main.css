@@ -31,7 +31,7 @@ a:hover,
 .nav-link:hover,
 .text-link:hover,
 span.filter:hover {
-  cursor:url('../images/utilities/cursor_link.png'), auto  !important;
+  cursor:url('../images/utilities/cursor__link.png'), auto  !important;
 }
 
 .ital {
@@ -56,7 +56,7 @@ span.filter:hover {
 	line-height: 1.4;
 }
 
-.side-nav-item__link:hover {
+.side-nav-item__link a:hover {
 	text-transform: uppercase;
 }
 
@@ -163,6 +163,7 @@ span.filter:hover {
 .main-content__container .sidebar__container,
 .main-content__container .canvas__container {
 	height: 92vh;
+	/* height: -webkit-fill-available; */
 	overflow: scroll;
 }
 
@@ -302,7 +303,7 @@ span.filter:hover {
 /* PROJECT INDEX – FILTER */
 
 span.filter:hover {
-  cursor:url('../images/utilities/cursor_link.png'), auto  !important;
+  cursor:url('../images/utilities/cursor__link.png'), auto  !important;
 }
 
 span.category {
@@ -358,7 +359,7 @@ span.category {
 .item--image img {
   width: 100%;
   height: 100%;
-	cursor:url('../images/utilities/cursor_link.png'), auto  !important;
+	cursor:url('../images/utilities/cursor__link.png'), auto  !important;
 }
 
 
