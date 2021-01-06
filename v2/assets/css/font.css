@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Nimbus Sans L';
-    src: url('NimbusSanL-ReguItal.woff2') format('woff2'),
-        url('NimbusSanL-ReguItal.woff') format('woff');
+    src: url('../fonts/NimbusSanL-ReguItal.woff2') format('woff2'),
+        url('../fonts/NimbusSanL-ReguItal.woff') format('woff');
     font-weight: normal;
     font-style: italic;
     font-display: swap;
@@ -9,10 +9,9 @@
 
 @font-face {
     font-family: 'Nimbus Sans L';
-    src: url('NimbusSanL-Regu.woff2') format('woff2'),
-        url('NimbusSanL-Regu.woff') format('woff');
+    src: url('../fonts/NimbusSanL-Regu.woff2') format('woff2'),
+        url('../fonts/NimbusSanL-Regu.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
-

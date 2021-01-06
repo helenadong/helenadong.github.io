@@ -9,14 +9,60 @@ $(document).ready(function() {
   // called to initially set the height.
   resetHeight();
 
+  // function resetWidth(){
+  //     // reset the body height to that of the inner browser
+  //     document.body.style.width = window.innerWidth + "px";
+  // }
+  // // reset the height whenever the window's resized
+  // window.addEventListener("resize", resetWidth);
+  // // called to initially set the height.
+  // resetWidth();
+
 
 //// SIDE NAV TITLE ON PROJECT PAGE SELECT
 
 $(function(){
+  if($('body').is('.odda--page')){
+    $('.odda').addClass('up--title');
+  }
+  if($('body').is('.vogue-au--page')){
+    $('.vogue-au').addClass('up--title');
+  }
+  if($('body').is('.byredo--page')){
+    $('.byredo').addClass('up--title');
+  }
+  if($('body').is('.wishtrend--page')){
+    $('.wishtrend').addClass('up--title');
+  }
+  if($('body').is('.paco-rabanne--page')){
+    $('.paco-rabanne').addClass('up--title');
+  }
   if($('body').is('.vogue-us--page')){
     $('.vogue-us').addClass('up--title');
   }
+  if($('body').is('.unisecon--page')){
+    $('.unisecon').addClass('up--title');
+  }
+  if($('body').is('.liminal--page')){
+    $('.liminal').addClass('up--title');
+  }
+  if($('body').is('.florist--page')){
+    $('.florist').addClass('up--title');
+  }
+  if($('body').is('.tomihiro--page')){
+    $('.tomihiro').addClass('up--title');
+  }
+  if($('body').is('.peter-do--page')){
+    $('.peter-do').addClass('up--title');
+  }
+  if($('body').is('.vfiles--page')){
+    $('.vfiles').addClass('up--title');
+  }
+  if($('body').is('.vaquera--page')){
+    $('.vaquera').addClass('up--title');
+  }
 });
+
 
 
 
@@ -25,15 +71,6 @@ $(function(){
   class Header extends HTMLElement {
   connectedCallback() {
   this.innerHTML = `
-
-  <!-- <head>
-    <style type="text/css">
-      li.slide-item {
-        font-size: 1px !important;
-        background-color: pink;
-      }
-    </style>
-  </head> -->
 
 
   <div class="header-content__container">
@@ -79,34 +116,34 @@ $(function(){
         <span class="up--title large work-category">Collaborations</span><br><br>
 
         <div class="side-nav-item__link">
-          <a class="odda" href="./project-test.html">Odda Korea Drops</a>
+          <a class="odda" href="./odda-korea-drops.html">Odda Korea Drops</a>
         </div>
         <div class="side-nav-item__link">
-          <a class="vogue-au" href="./project-test.html">Vogue In a World of Pure Imagination</a>
+          <a class="vogue-au" href="./vogue-au.html">Vogue In a World of Pure Imagination</a>
         </div>
         <div class="side-nav-item__link">
-          <a class="byredo" href="./project-test.html">Byredo AR Beauty</a>
+          <a class="byredo" href="./byredo-ar-beauty.html">Byredo AR Beauty</a>
         </div>
         <div class="side-nav-item__link">
-          <a class="wishtrend" href="./project-test.html">Wishtrend Glowing Ingredients</a>
+          <a class="wishtrend" href="./wishtrend-glowing-ingredients.html">Wishtrend Glowing Ingredients</a>
         </div>
         <div class="side-nav-item__link">
-          <a class="paco-rabanne" href="./project-test.html">Paco Rabanne Eyes</a>
+          <a class="paco-rabanne" href="./paco-eyes.html">Paco Rabanne Eyes</a>
         </div>
         <div class="side-nav-item__link">
-          <a class="vogue-us" href="./project-test.html">Ms. Iyaaa x Vogue</a>
+          <a class="vogue-us" href="./vogue-us.html">Ms. Iyaaa x Vogue</a>
         </div>
         <div class="side-nav-item__link">
-          <a class="unisecon" href="./project-test.html">Unisecon Pearl Pearl</a>
+          <a class="unisecon" href="./unisecon-pearl-pearl.html">Unisecon Pearl Pearl</a>
         </div>
         <div class="side-nav-item__link">
-          <a class="tomihiro" href="./project-test.html">Tomihiro Kono 3D Head Props</a>
+          <a class="tomihiro" href="./tomihiro-kono.html">Tomihiro Kono 3D Head Props</a>
         </div>
         <div class="side-nav-item__link">
-          <a class="peter-do" href="./project-test.html">Peter Do Hearts</a>
+          <a class="peter-do" href="./peter-do-hearts.html">Peter Do Hearts</a>
         </div>
         <div class="side-nav-item__link">
-          <a class="vaquera" href="./project-test.html">Vaquera Heartbeat</a>
+          <a class="vaquera" href="./vaquera-heartbeat.html">Vaquera Heartbeat</a>
         </div>
 
         <br><br>
@@ -158,34 +195,34 @@ $(function(){
             <span class="up--title large">Collaborations</span> <br><br>
 
             <div class="side-nav-item__link">
-              <a class="side-nav-item-1 odda" href="./project-test.html">Odda Korea Drops</a>
+              <a class="side-nav-item-1 odda" href="./odda-korea-drops.html">Odda Korea Drops</a>
             </div>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-2 vogue-au" href="./project-test.html">Vogue In a World of Pure Imagination</a>
+              <a class="side-nav-item-2 vogue-au" href="./vogue-au.html">Vogue In a World of Pure Imagination</a>
             </div>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-3 byredo" href="./project-test.html">Byredo AR Beauty</a>
+              <a class="side-nav-item-3 byredo" href="./byredo-ar-beauty.html">Byredo AR Beauty</a>
             </div>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-4 wishtrend" href="./project-test.html">Wishtrend Glowing Ingredients</a>
+              <a class="side-nav-item-4 wishtrend" href="./wishtrend-glowing-ingredients.html">Wishtrend Glowing Ingredients</a>
             </div>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-5 paco-rabanne" href="./project-test.html">Paco Rabanne Eyes</a>
+              <a class="side-nav-item-5 paco-rabanne" href="./paco-eyes.html">Paco Rabanne Eyes</a>
             </div>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-6 vogue-us" href="./project-test.html">Ms. Iyaaa x Vogue</a>
+              <a class="side-nav-item-6 vogue-us" href="./vogue-us.html">Ms. Iyaaa x Vogue</a>
             </div>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-7 unisecon" href="./project-test.html">Unisecon Pearl Pearl</a>
+              <a class="side-nav-item-7 unisecon" href="./unisecon-pearl-pearl.html">Unisecon Pearl Pearl</a>
             </div>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-8 tomihiro" href="./project-test.html">Tomihiro Kono 3D Head Props</a>
+              <a class="side-nav-item-8 tomihiro" href="./tomihiro-kono.html">Tomihiro Kono 3D Head Props</a>
             </div>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-9 peter-do" href="./project-test.html">Peter Do Hearts</a>
+              <a class="side-nav-item-9 peter-do" href="./peter-do-hearts.html">Peter Do Hearts</a>
             </div>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-10 vaquera" href="./project-test.html">Vaquera Heartbeat</a>
+              <a class="side-nav-item-10 vaquera" href="./vaquera-heartbeat.html">Vaquera Heartbeat</a>
             </div>
 
             <br><br>
