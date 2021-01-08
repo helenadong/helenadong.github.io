@@ -58,8 +58,23 @@ $(function(){
   if($('body').is('.vfiles--page')){
     $('.vfiles').addClass('up--title');
   }
+  if($('body').is('.far-near--page')){
+    $('.far-near').addClass('up--title');
+  }
   if($('body').is('.vaquera--page')){
     $('.vaquera').addClass('up--title');
+  }
+  if($('body').is('.ar-effects--page')){
+    $('.ar-effects').addClass('up--title');
+  }
+  if($('body').is('.scbc--page')){
+    $('.scbc').addClass('up--title');
+  }
+  if($('body').is('.pondering--page')){
+    $('.pondering').addClass('up--title');
+  }
+  if($('body').is('.exercise-no-1--page')){
+    $('.exercise-no-1').addClass('up--title');
   }
 });
 
@@ -151,16 +166,16 @@ $(function(){
         <span class="up--title large">Personal</span><br><br>
 
         <div class="side-nav-item__link">
-          <a class="ar-effects" href="./project-test.html">Augmented Reality Effects</a>
+          <a class="ar-effects" href="./ar-effects.html">Augmented Reality Effects</a>
         </div><br>
         <div class="side-nav-item__link">
-          <a class="scbc" href="./project-test.html">Scissors, Calculator and a Beige Coat</a>
+          <a class="scbc" href="./scbc.html">Scissors, Calculator and a Beige Coat</a>
         </div>
         <div class="side-nav-item__link">
-          <a class="pondering" href="./project-test.html">Pondering Gestures</a>
+          <a class="pondering" href="./pondering-gestures.html">Pondering Gestures</a>
         </div>
         <div class="side-nav-item__link">
-          <a class="exercise-no-1" href="./project-test.html">Exercise N<span class="glyph">o</span>. 1</a>
+          <a class="exercise-no-1" href="./exercise-no-1.html">Exercise N<span class="glyph">o</span>.1</a>
         </div>
     </div>
 
@@ -230,16 +245,16 @@ $(function(){
             <span class="up--title large">Personal</span><br><br>
 
             <div class="side-nav-item__link">
-              <a class="side-nav-item-11 ar-effects" href="./project-test.html">Augmented Reality Effects</a>
+              <a class="side-nav-item-11 ar-effects" href="./ar-effects.html">Augmented Reality Effects</a>
             </div><br>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-12 scbc" href="./project-test.html">Scissors, Calculator and a Beige Coat</a>
+              <a class="side-nav-item-12 scbc" href="./scbc.html">Scissors, Calculator and a Beige Coat</a>
             </div>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-13 pondering" href="./project-test.html">Pondering Gestures</a>
+              <a class="side-nav-item-13 pondering" href="./pondering-gestures.html">Pondering Gestures</a>
             </div>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-14 exercise-no-1" href="./project-test.html">Exercise N<span class="glyph">o</span>. 1</a>
+              <a class="side-nav-item-14 exercise-no-1" href="./exercise-no-1.html">Exercise N<span class="glyph">o</span>.1</a>
             </div>
 
           </div>

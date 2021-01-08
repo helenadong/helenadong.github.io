@@ -175,6 +175,10 @@ span.filter:hover {
   flex: 4 4 80%;
 }
 
+.spacer {
+  margin: 15px;
+}
+
 .sidebar__container {
   display: inline-block;
   left: 0;
@@ -206,12 +210,28 @@ span.filter:hover {
 .canvas-item__container.project,
 .canvas-item__container.text {
 	width: 70%;
-	margin-bottom: 50px;
+	margin-bottom: 40px;
 }
 
-.spacer {
-  margin: 15px;
+.canvas-item__container.project.ar-text {
+	margin-bottom: 30px;
 }
+
+.canvas-item__container.project.ar-media {
+	margin-bottom: 0;
+	float: left;
+}
+
+.canvas-item__container.project.ar-caption {
+	margin-bottom: 0;
+	width: 28%;
+	float: left;
+	vertical-align: top;
+	padding-left: 7px;
+}
+
+
+/* PROJECT PAGE */
 
 .text-block,
 .media-block {
@@ -222,6 +242,7 @@ span.filter:hover {
 .media-block {
 	padding-bottom: 15px;
 }
+
 
 .media-block img,
 .media-block video {
@@ -241,7 +262,20 @@ span.filter:hover {
 
 .col:nth-last-child(1),
 .text-block:nth-last-child(1) {
-	padding-bottom: 0px;
+	padding-bottom: 0;
+}
+
+.ar-media .col {
+	padding-right: 7px;
+	padding-bottom: 7px;
+}
+
+.canvas-item__container.project.ar-media .media-block {
+	padding-bottom: 0;
+}
+
+.canvas-item__container.project.ar-media.last {
+	margin-bottom: 15px;
 }
 
 .w-1of1 {
@@ -268,6 +302,51 @@ span.filter:hover {
 	flex:0 0 75%;
 }
 
+.static--thumbnail img{
+	margin-top: 15px;
+	right: 15px;
+	position: fixed;
+	width: 120px;
+}
+
+/* .static--footer {
+	position: fixed;
+	right: 15px;
+	bottom: 15px;
+} */
+
+/* .vimeo__container {
+
+  height: 0;
+
+  max-width: 100%;
+}
+
+.vimeo__container iframe,
+.vimeo__container object,
+.vimeo__container embed {
+  width: 100%;
+  height: 100%;
+} */
+
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
 
 /* HOMPAGE */
 
@@ -280,22 +359,6 @@ span.filter:hover {
 
 .canvas__container.home {
 	overflow: hidden !important;
-}
-
-
-/* PROJECT PAGE */
-
-.static--thumbnail img{
-	margin-top: 15px;
-	right: 15px;
-	position: fixed;
-	width: 120px;
-}
-
-.static--footer {
-	position: fixed;
-	right: 15px;
-	bottom: 15px;
 }
 
 

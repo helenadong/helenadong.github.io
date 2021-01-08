@@ -71,6 +71,10 @@ and (max-width : 767px) {
   flex: 0 0 100%;
 }
 
+.w-1of3 {
+  flex: 0 0 50%;
+}
+
 
 }
 
