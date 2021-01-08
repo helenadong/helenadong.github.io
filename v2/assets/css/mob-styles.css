@@ -23,7 +23,7 @@ and (max-width : 850px) {
   height: 135px;
 }
 
-.canvas-item__container.text {
+.canvas-item__container.info {
 	width: 100%;
 }
 

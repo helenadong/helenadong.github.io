@@ -210,8 +210,13 @@ a:hover,
 .canvas-item__container.project,
 .canvas-item__container.info {
 	width: 70%;
-	/* background-color: red; */
-	padding-bottom: 50px;
+}
+
+.side-nav-item__container,
+.canvas-item__container.project,
+.canvas-item__container.info {
+	background-color: red;
+	padding-bottom: 100px;
 }
 
 /* MAIN CONTENT - PROJECT PAGES */
@@ -251,7 +256,7 @@ a:hover,
 .canvas-item__container.project.ar-text {
 	padding-bottom: 0;
 	margin-bottom: 30px;
-	/* background-color: blue; */
+	background-color: blue;
 }
 
 .canvas-item__container.project.ar-media {
@@ -271,7 +276,8 @@ a:hover,
 }
 
 .canvas-item__container.project.ar-media.last {
-	padding-bottom: 50px;
+	padding-bottom: 100px;
+	background-color: green;
 }
 
 .w-1of1 {
@@ -321,8 +327,8 @@ span.category {
 }
 
 .wrapper--grid {
-	padding-bottom: 35px;
-	/* background-color: pink; */
+	padding-bottom: 85px;
+	background-color: pink;
 }
 
 .index-item {
