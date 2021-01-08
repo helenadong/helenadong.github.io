@@ -251,6 +251,10 @@ a:hover,
 	width: 100%;
 }
 
+.media-block video:focus{
+	outline: none;
+}
+
 .grid {
 	display: flex;
 	flex-wrap:wrap;
