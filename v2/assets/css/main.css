@@ -56,6 +56,7 @@ span.filter:hover {
 	line-height: 1.4;
 }
 
+a:hover,
 .side-nav-item__link a:hover {
 	text-transform: uppercase;
 }
