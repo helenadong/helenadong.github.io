@@ -9,17 +9,9 @@ $(document).ready(function() {
   // called to initially set the height.
   resetHeight();
 
-  // function resetWidth(){
-  //     // reset the body height to that of the inner browser
-  //     document.body.style.width = window.innerWidth + "px";
-  // }
-  // // reset the height whenever the window's resized
-  // window.addEventListener("resize", resetWidth);
-  // // called to initially set the height.
-  // resetWidth();
 
-
-//// SIDE NAV TITLE ON PROJECT PAGE SELECT
+//// SIDE NAV TITLE
+/////// ALL CAPS ON PROJECT PAGE SELECT
 
 $(function(){
   if($('body').is('.odda--page')){
@@ -123,7 +115,7 @@ $(function(){
   </div>
 
 
-  <!-- WORK NAV - MOBILE VERSION - NO AUDIO-->
+  <!-- WORK NAV - MOBILE SIDEBAR - NO AUDIO -->
   <div class="popup__container--work-nav">
     <div class="flex-item--left work-item--left">
         <span class="nav-link nav-link--close">Close X</span><br><br><br>
@@ -254,7 +246,9 @@ $(function(){
               <a class="side-nav-item-13 pondering" href="./pondering-gestures.html">Pondering Gestures</a>
             </div>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-14 exercise-no-1" href="./exercise-no-1.html">Exercise N<span class="glyph">o</span>.1</a>
+              <a class="side-nav-item-14 exercise-no-1" href="./exercise-no-1.html">
+                Exercise N<span class="glyph">o</span>.1
+              </a>
             </div>
 
           </div>
