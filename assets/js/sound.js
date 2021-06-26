@@ -4,21 +4,21 @@ $(document).ready(function() {
   /* NAV BAR: ASSIGN AUDIO */
 
   var sideNavItem1 = document.createElement('audio');
-  sideNavItem1.setAttribute('src', 'assets/audio/parrot.mp3' , type="audio/mpeg" , preload="auto");
+  sideNavItem1.setAttribute('src', 'assets/audio/glitch2.mp3' , type="audio/mpeg" , preload="auto");
   $.get();
   sideNavItem1.addEventListener("load", function() {
     sideNavItem1.play();
   }, true);
 
   var sideNavItem2 = document.createElement('audio');
-  sideNavItem2.setAttribute('src', 'assets/audio/glitch.mp3' , type="audio/mpeg");
+  sideNavItem2.setAttribute('src', 'assets/audio/piano2.mp3' , type="audio/mpeg");
   $.get();
   sideNavItem2.addEventListener("load", function() {
     sideNavItem2.play();
   }, true);
 
   var sideNavItem3 = document.createElement('audio');
-  sideNavItem3.setAttribute('src', 'assets/audio/glitch2.mp3' , type="audio/mpeg");
+  sideNavItem3.setAttribute('src', 'assets/audio/parrot.mp3' , type="audio/mpeg");
   $.get();
   sideNavItem3.addEventListener("load", function() {
     sideNavItem3.play();
@@ -32,7 +32,7 @@ $(document).ready(function() {
   }, true);
 
   var sideNavItem5 = document.createElement('audio');
-  sideNavItem5.setAttribute('src', 'assets/audio/chirp.mp3' , type="audio/mpeg");
+  sideNavItem5.setAttribute('src', 'assets/audio/cricket.wav' , type="audio/mpeg");
   $.get();
   sideNavItem5.addEventListener("load", function() {
     sideNavItem5.play();
@@ -60,7 +60,7 @@ $(document).ready(function() {
   }, true);
 
   var sideNavItem9 = document.createElement('audio');
-  sideNavItem9.setAttribute('src', 'assets/audio/ping.mp3' , type="audio/mpeg");
+  sideNavItem9.setAttribute('src', 'assets/audio/piano.mp3' , type="audio/mpeg");
   $.get();
   sideNavItem9.addEventListener("load", function() {
     sideNavItem9.play();
@@ -81,7 +81,7 @@ $(document).ready(function() {
   }, true);
 
   var sideNavItem12 = document.createElement('audio');
-  sideNavItem12.setAttribute('src', 'assets/audio/chime.mp3' , type="audio/mpeg");
+  sideNavItem12.setAttribute('src', 'assets/audio/glitch.mp3' , type="audio/mpeg");
   $.get();
   sideNavItem12.addEventListener("load", function() {
     sideNavItem12.play();
@@ -102,14 +102,14 @@ $(document).ready(function() {
   }, true);
 
   var sideNavItem15 = document.createElement('audio');
-  sideNavItem15.setAttribute('src', 'assets/audio/oboe.mp3' , type="audio/mpeg");
+  sideNavItem15.setAttribute('src', 'assets/audio/ping.mp3' , type="audio/mpeg");
   $.get();
   sideNavItem15.addEventListener("load", function() {
     sideNavItem15.play();
   }, true);
 
   var sideNavItem16 = document.createElement('audio');
-  sideNavItem16.setAttribute('src', 'assets/audio/toy-piano.mp3' , type="audio/mpeg");
+  sideNavItem16.setAttribute('src', 'assets/audio/chime.mp3' , type="audio/mpeg");
   $.get();
   sideNavItem16.addEventListener("load", function() {
     sideNavItem16.play();

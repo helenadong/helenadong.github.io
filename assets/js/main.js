@@ -68,6 +68,28 @@ $(function(){
   if($('body').is('.exercise-no-1--page')){
     $('.exercise-no-1').addClass('up--title');
   }
+  if($('body').is('.id-asia--page')){
+    $('.id-asia').addClass('up--title');
+  }
+  if($('body').is('.josephmark--page')){
+    $('.josephmark').addClass('up--title');
+  }
+  if($('body').is('.exhibition-mag--page')){
+    $('.exhibition-mag').addClass('up--title');
+  }
+  if($('body').is('.danse-lente--page')){
+    $('.danse-lente').addClass('up--title');
+  }
+  if($('body').is('.new-reader-reading-room--page')){
+    $('.new-reader-reading-room').addClass('up--title');
+  }
+  if($('body').is('.bfc-june21--page')){
+    $('.bfc-june21').addClass('up--title');
+  }
+  if($('body').is('.bfc-feb21--page')){
+    $('.bfc-feb21').addClass('up--title');
+  }
+
 });
 
 
@@ -97,19 +119,19 @@ $(function(){
   <div class='slider'>
     <ul class="slide__container">
       <li class="slide-item">
-          DESIGNER &nbsp; ⮂ &nbsp; CREATIVE TECHNOLOGIST &nbsp; ⇥ &nbsp; HELLO@HELENADONG.COM
+          DESIGN &nbsp; ⮂ &nbsp; CREATIVE TECHNOLOGY &nbsp; ⇥ &nbsp; HELLO@HELENADONG.COM
       </li>
       <li class="slide-item">
-          DESIGNER &nbsp; ⮂ &nbsp; CREATIVE TECHNOLOGIST &nbsp; ⇥ &nbsp; HELLO@HELENADONG.COM
+          DESIGN &nbsp; ⮂ &nbsp; CREATIVE TECHNOLOGY &nbsp; ⇥ &nbsp; HELLO@HELENADONG.COM
       </li>
       <li class="slide-item">
-          DESIGNER &nbsp; ⮂ &nbsp; CREATIVE TECHNOLOGIST &nbsp; ⇥ &nbsp; HELLO@HELENADONG.COM
+          DESIGN &nbsp; ⮂ &nbsp; CREATIVE TECHNOLOGY &nbsp; ⇥ &nbsp; HELLO@HELENADONG.COM
       </li>
       <li class="slide-item">
-          DESIGNER &nbsp; ⮂ &nbsp; CREATIVE TECHNOLOGIST &nbsp; ⇥ &nbsp; HELLO@HELENADONG.COM
+          DESIGN &nbsp; ⮂ &nbsp; CREATIVE TECHNOLOGY &nbsp; ⇥ &nbsp; HELLO@HELENADONG.COM
       </li>
       <li class="slide-item">
-          DESIGNER &nbsp; ⮂ &nbsp; CREATIVE TECHNOLOGIST &nbsp; ⇥ &nbsp; HELLO@HELENADONG.COM
+          DESIGN &nbsp; ⮂ &nbsp; CREATIVE TECHNOLOGY &nbsp; ⇥ &nbsp; HELLO@HELENADONG.COM
       </li>
     </ul>
   </div>
@@ -123,36 +145,41 @@ $(function(){
         <span class="up--title large work-category">Collaborations</span><br><br>
 
         <div class="side-nav-item__link">
-          <a class="odda" href="./odda-korea-drops.html">Odda Korea Drops</a>
+          <a class="id-asia" href="./id-asia.html">i-D Asia • Bending Minds and Futures</a>
         </div>
         <div class="side-nav-item__link">
-          <a class="vogue-au" href="./vogue-au.html">Vogue In a World of Pure Imagination</a>
+          <a class="josephmark" href="./josephmark.html">Josephmark • UV—MicroPlastic</a>
         </div>
         <div class="side-nav-item__link">
-          <a class="byredo" href="./byredo-ar-beauty.html">Byredo AR Beauty</a>
+          <a class="exhibition-mag" href="./exhibition-mag.html">Exhibtion Magazine • The Edge Issue</a>
         </div>
         <div class="side-nav-item__link">
-          <a class="wishtrend" href="./wishtrend-glowing-ingredients.html">Wishtrend Glowing Ingredients</a>
+          <a class="danse-lente" href="./danse-lente.html">Danse Lente • SS21 in Nature</a>
         </div>
         <div class="side-nav-item__link">
-          <a class="paco-rabanne" href="./paco-eyes.html">Paco Rabanne Eyes</a>
+          <a class="new-reader-reading-room" href="./new-reader-reading-room.html">New Reader • Reading Room</a>
         </div>
         <div class="side-nav-item__link">
-          <a class="vogue-us" href="./vogue-us.html">Ms. Iyaaa x Vogue</a>
+          <a class="bfc-june21" href="./bfc-june21.html">British Fashion Council • LFW June</a>
         </div>
         <div class="side-nav-item__link">
-          <a class="unisecon" href="./unisecon-pearl-pearl.html">Unisecon Pearl Pearl</a>
+          <a class="bfc-feb21" href="./bfc-feb21.html">British Fashion Council • LFW February</a>
         </div>
         <div class="side-nav-item__link">
-          <a class="tomihiro" href="./tomihiro-kono.html">Tomihiro Kono 3D Head Props</a>
+          <a class="odda" href="./odda-korea-drops.html">Odda Magazine • Odda Korea Drops</a>
         </div>
         <div class="side-nav-item__link">
-          <a class="peter-do" href="./peter-do-hearts.html">Peter Do Hearts</a>
+          <a class="vogue-au" href="./vogue-au.html">Vogue AU • In a World of Pure Imagination</a>
         </div>
         <div class="side-nav-item__link">
-          <a class="vaquera" href="./vaquera-heartbeat.html">Vaquera Heartbeat</a>
+          <a class="byredo" href="./byredo-ar-beauty.html">Byredo • AR Beauty</a>
         </div>
-
+        <div class="side-nav-item__link">
+          <a class="vogue-us" href="./vogue-us.html">Vogue US • Ms. Iyaaa x Vogue</a>
+        </div>
+        <div class="side-nav-item__link">
+          <a class="unisecon" href="./unisecon-pearl-pearl.html">Unisecon • Pearl Pearl</a>
+          </div>
         <br><br>
 
         <span class="up--title large">Personal</span><br><br>
@@ -201,52 +228,61 @@ $(function(){
           <div class="spacer">
             <span class="up--title large">Collaborations</span> <br><br>
 
+
             <div class="side-nav-item__link">
-              <a class="side-nav-item-1 odda" href="./odda-korea-drops.html">Odda Korea Drops</a>
+              <a class="side-nav-item-1 id-asia" href="./id-asia.html">i-D Asia • Bending Minds and Futures</a>
             </div>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-2 vogue-au" href="./vogue-au.html">Vogue In a World of Pure Imagination</a>
+              <a class="side-nav-item-2 josephmark" href="./josephmark.html">Josephmark • UV—MicroPlastic</a>
             </div>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-3 byredo" href="./byredo-ar-beauty.html">Byredo AR Beauty</a>
+              <a class="side-nav-item-3 exhibition-mag" href="./exhibition-mag.html">Exhibition Magazine • The Edge Issue</a>
             </div>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-4 wishtrend" href="./wishtrend-glowing-ingredients.html">Wishtrend Glowing Ingredients</a>
+              <a class="side-nav-item-4 danse-lente" href="./danse-lente.html">Danse Lente • SS21 in Nature</a>
             </div>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-5 paco-rabanne" href="./paco-eyes.html">Paco Rabanne Eyes</a>
+              <a class="side-nav-item-5 new-reader-reading-room" href="./new-reader-reading-room.html">New Reader • Reading Room</a>
             </div>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-6 vogue-us" href="./vogue-us.html">Ms. Iyaaa x Vogue</a>
+              <a class="side-nav-item-6 bfc-june21" href="./bfc-june21.html">British Fashion Council • LFW June</a>
             </div>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-7 unisecon" href="./unisecon-pearl-pearl.html">Unisecon Pearl Pearl</a>
+              <a class="side-nav-item-7 bfc-feb21" href="./bfc-feb21.html">British Fashion Council • LFW February</a>
             </div>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-8 tomihiro" href="./tomihiro-kono.html">Tomihiro Kono 3D Head Props</a>
+              <a class="side-nav-item-8 odda" href="./odda-korea-drops.html">Odda Magazine • Odda Korea Drops</a>
             </div>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-9 peter-do" href="./peter-do-hearts.html">Peter Do Hearts</a>
+              <a class="side-nav-item-9 vogue-au" href="./vogue-au.html">Vogue AU • In a World of Pure Imagination</a>
             </div>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-10 vaquera" href="./vaquera-heartbeat.html">Vaquera Heartbeat</a>
+              <a class="side-nav-item-10 byredo" href="./byredo-ar-beauty.html">Byredo • AR Beauty</a>
             </div>
+            <div class="side-nav-item__link">
+              <a class="side-nav-item-11 vogue-us" href="./vogue-us.html">Vogue US • Ms. Iyaaa x Vogue</a>
+            </div>
+            <div class="side-nav-item__link">
+              <a class="side-nav-item-12 unisecon" href="./unisecon-pearl-pearl.html">Unisecon • Pearl Pearl</a>
+            </div>
+
+
 
             <br><br>
 
             <span class="up--title large">Personal</span><br><br>
 
             <div class="side-nav-item__link">
-              <a class="side-nav-item-11 ar-effects" href="./ar-effects.html">Augmented Reality Effects</a>
+              <a class="side-nav-item-13 ar-effects" href="./ar-effects.html">Augmented Reality Effects</a>
             </div><br>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-12 scbc" href="./scbc.html">Scissors, Calculator and a Beige Coat</a>
+              <a class="side-nav-item-14 scbc" href="./scbc.html">Scissors, Calculator and a Beige Coat</a>
             </div>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-13 pondering" href="./pondering-gestures.html">Pondering Gestures</a>
+              <a class="side-nav-item-15 pondering" href="./pondering-gestures.html">Pondering Gestures</a>
             </div>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-14 exercise-no-1" href="./exercise-no-1.html">
+              <a class="side-nav-item-16 exercise-no-1" href="./exercise-no-1.html">
                 Exercise N<span class="glyph">o</span>.1
               </a>
             </div>
