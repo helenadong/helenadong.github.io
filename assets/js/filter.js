@@ -146,6 +146,19 @@ $(document).ready(function() {
 
     });
 
+    $('.space--filter').click(function(event){
+      $('.item--null').addClass('show');
+      $('.item--image').addClass('hide');
+
+      $('.index-item.space .item--image').removeClass('hide');
+      $('.index-item.space .item--null').removeClass('show');
+
+      $('.filter').removeClass('highlight');
+
+      $(this).addClass('highlight');
+
+    });
+
 
     $('.publication--filter').click(function(event){
       $('.item--null').addClass('show');
