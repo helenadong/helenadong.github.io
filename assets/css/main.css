@@ -12,11 +12,15 @@ html {
 }
 
 body {
-	cursor:url('../images/utilities/cursor.png'), auto !important;
   background-color: white;
   color: black;
   font-family: 'Nimbus Sans L', arial, helvetica, sans-serif;
   line-height: 1.6;
+}
+
+body,
+a .up--title {
+	cursor:url('../images/utilities/cursor.png'), auto !important;
 }
 
 .fixed-position {
