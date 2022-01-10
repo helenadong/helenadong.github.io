@@ -151,9 +151,6 @@ $(function(){
           <a class="josephmark" href="./josephmark.html">Josephmark • UV—MicroPlastic</a>
         </div>
         <div class="side-nav-item__link">
-          <a class="exhibition-mag" href="./exhibition-mag.html">Exhibtion Magazine • The Edge Issue</a>
-        </div>
-        <div class="side-nav-item__link">
           <a class="danse-lente" href="./danse-lente.html">Danse Lente • SS21 in Nature</a>
         </div>
         <div class="side-nav-item__link">
@@ -177,9 +174,7 @@ $(function(){
         <div class="side-nav-item__link">
           <a class="vogue-us" href="./vogue-us.html">Vogue US • Ms. Iyaaa x Vogue</a>
         </div>
-        <div class="side-nav-item__link">
-          <a class="unisecon" href="./unisecon-pearl-pearl.html">Unisecon • Pearl Pearl</a>
-          </div>
+
         <br><br>
 
         <span class="up--title large">Personal</span><br><br>
