@@ -143,7 +143,9 @@ $(function(){
         <span class="nav-link nav-link--close">Close X</span><br><br><br>
 
         <span class="up--title large work-category">Collaborations</span><br><br>
-
+        <div class="side-nav-item__link">
+          <a class="bfc-june21" href="./bfc-lfw.html">British Fashion Council • LFW 2021</a>
+        </div>
         <div class="side-nav-item__link">
           <a class="id-asia" href="./id-asia.html">i-D Asia • Bending Minds and Futures</a>
         </div>
@@ -155,12 +157,6 @@ $(function(){
         </div>
         <div class="side-nav-item__link">
           <a class="new-reader-reading-room" href="./new-reader-reading-room.html">New Reader • Reading Room</a>
-        </div>
-        <div class="side-nav-item__link">
-          <a class="bfc-june21" href="./bfc-june21.html">British Fashion Council • LFW June</a>
-        </div>
-        <div class="side-nav-item__link">
-          <a class="bfc-feb21" href="./bfc-feb21.html">British Fashion Council • LFW February</a>
         </div>
         <div class="side-nav-item__link">
           <a class="odda" href="./odda-korea-drops.html">Odda Magazine • Odda Korea Drops</a>
@@ -223,24 +219,20 @@ $(function(){
           <div class="spacer">
             <span class="up--title large">Collaborations</span> <br><br>
 
-
             <div class="side-nav-item__link">
-              <a class="side-nav-item-1 id-asia" href="./id-asia.html">i-D Asia • Bending Minds and Futures</a>
+              <a class="side-nav-item-2 bfc-june21" href="./bfc-lfw.html">British Fashion Council • LFW 2021</a>
             </div>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-2 josephmark" href="./josephmark.html">Josephmark • UV—MicroPlastic</a>
+              <a class="side-nav-item-3 id-asia" href="./id-asia.html">i-D Asia • Bending Minds and Futures</a>
             </div>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-3 danse-lente" href="./danse-lente.html">Danse Lente • SS21 in Nature</a>
+              <a class="side-nav-item-4 josephmark" href="./josephmark.html">Josephmark • UV—MicroPlastic</a>
             </div>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-4 new-reader-reading-room" href="./new-reader-reading-room.html">New Reader • Reading Room</a>
+              <a class="side-nav-item-5 danse-lente" href="./danse-lente.html">Danse Lente • SS21 in Nature</a>
             </div>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-5 bfc-june21" href="./bfc-june21.html">British Fashion Council • LFW June</a>
-            </div>
-            <div class="side-nav-item__link">
-              <a class="side-nav-item-6 bfc-feb21" href="./bfc-feb21.html">British Fashion Council • LFW February</a>
+              <a class="side-nav-item-6 new-reader-reading-room" href="./new-reader-reading-room.html">New Reader • Reading Room</a>
             </div>
             <div class="side-nav-item__link">
               <a class="side-nav-item-7 odda" href="./odda-korea-drops.html">Odda Magazine • Odda Korea Drops</a>
