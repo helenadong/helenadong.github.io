@@ -231,7 +231,7 @@ $(function(){
             <span class="up--title large">Collaborations</span> <br><br>
 
             <div class="side-nav-item__link">
-              <a class="side-nav-item-2 a24-redrocket" href="./a24-redrocket.html">A24 • Red Rocket</a>
+              <a class="side-nav-item-1 a24-redrocket" href="./a24-redrocket.html">A24 • Red Rocket</a>
             </div>
             <div class="side-nav-item__link">
               <a class="side-nav-item-2 selfridges" href="./selfridges.html">Selfridges • Christmas of Dreams</a>
@@ -240,31 +240,31 @@ $(function(){
               <a class="side-nav-item-2 a24-lamb" href="./a24-lamb.html">A24 • Lamb</a>
             </div>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-2 bfc-june21" href="./bfc-lfw.html">British Fashion Council • LFW 2021</a>
+              <a class="side-nav-item-4 bfc-june21" href="./bfc-lfw.html">British Fashion Council • LFW 2021</a>
             </div>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-3 id-asia" href="./id-asia.html">i-D Asia • Bending Minds and Futures</a>
+              <a class="side-nav-item-5 id-asia" href="./id-asia.html">i-D Asia • Bending Minds and Futures</a>
             </div>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-4 josephmark" href="./josephmark.html">Josephmark • UV—MicroPlastic</a>
+              <a class="side-nav-item-6 josephmark" href="./josephmark.html">Josephmark • UV—MicroPlastic</a>
             </div>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-5 danse-lente" href="./danse-lente.html">Danse Lente • SS21 in Nature</a>
+              <a class="side-nav-item-7 danse-lente" href="./danse-lente.html">Danse Lente • SS21 in Nature</a>
             </div>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-6 new-reader-reading-room" href="./new-reader-reading-room.html">New Reader • Reading Room</a>
+              <a class="side-nav-item-8 new-reader-reading-room" href="./new-reader-reading-room.html">New Reader • Reading Room</a>
             </div>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-7 odda" href="./odda-korea-drops.html">Odda Magazine • Odda Korea Drops</a>
+              <a class="side-nav-item-9 odda" href="./odda-korea-drops.html">Odda Magazine • Odda Korea Drops</a>
             </div>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-8 vogue-au" href="./vogue-au.html">Vogue AU • In a World of Pure Imagination</a>
+              <a class="side-nav-item-10 vogue-au" href="./vogue-au.html">Vogue AU • In a World of Pure Imagination</a>
             </div>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-9 byredo" href="./byredo-ar-beauty.html">Byredo • AR Beauty</a>
+              <a class="side-nav-item-11 byredo" href="./byredo-ar-beauty.html">Byredo • AR Beauty</a>
             </div>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-10 vogue-us" href="./vogue-us.html">Vogue US • Ms. Iyaaa x Vogue</a>
+              <a class="side-nav-item-12 vogue-us" href="./vogue-us.html">Vogue US • Ms. Iyaaa x Vogue</a>
             </div>
 
 
@@ -274,16 +274,16 @@ $(function(){
             <span class="up--title large">Personal</span><br><br>
 
             <div class="side-nav-item__link">
-              <a class="side-nav-item-11 ar-effects" href="./ar-effects.html">Augmented Reality Effects</a>
+              <a class="side-nav-item-13 ar-effects" href="./ar-effects.html">Augmented Reality Effects</a>
             </div><br>
             <div class="side-nav-item__link">
               <a class="side-nav-item-12 scbc" href="./scbc.html">Scissors, Calculator and a Beige Coat</a>
             </div>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-13 pondering" href="./pondering-gestures.html">Pondering Gestures</a>
+              <a class="side-nav-item-14 pondering" href="./pondering-gestures.html">Pondering Gestures</a>
             </div>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-14 exercise-no-1" href="./exercise-no-1.html">
+              <a class="side-nav-item-15 exercise-no-1" href="./exercise-no-1.html">
                 Exercise N<span class="glyph">o</span>.1
               </a>
             </div>
