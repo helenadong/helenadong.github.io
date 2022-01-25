@@ -143,9 +143,17 @@ $(function(){
         <span class="nav-link nav-link--close">Close X</span><br><br><br>
 
         <span class="up--title large work-category">Collaborations</span><br><br>
+
+       <div class="side-nav-item__link">
+         <a class="a24-redrocket" href="./a24-redrocket.html">A24 • Red Rocket</a>
+       </div>
+      
         <div class="side-nav-item__link">
           <a class="selfridges" href="./selfridges.html">Selfridges • Christmas of Dreams</a>
         </div>
+        <div class="side-nav-item__link">
+          <a class="a24-lamb" href="./a24-lamb.html">A24• Lamb</a>
+       </div>
         <div class="side-nav-item__link">
           <a class="bfc-june21" href="./bfc-lfw.html">British Fashion Council • LFW 2021</a>
         </div>
@@ -223,7 +231,13 @@ $(function(){
             <span class="up--title large">Collaborations</span> <br><br>
 
             <div class="side-nav-item__link">
+              <a class="side-nav-item-2 a24-redrocket" href="./a24-redrocket.html">A24 • Red Rocket</a>
+            </div>
+            <div class="side-nav-item__link">
               <a class="side-nav-item-2 selfridges" href="./selfridges.html">Selfridges • Christmas of Dreams</a>
+            </div>
+            <div class="side-nav-item__link">
+              <a class="side-nav-item-2 a24-lamb" href="./a24-lamb.html">A24 • Lamb</a>
             </div>
             <div class="side-nav-item__link">
               <a class="side-nav-item-2 bfc-june21" href="./bfc-lfw.html">British Fashion Council • LFW 2021</a>
