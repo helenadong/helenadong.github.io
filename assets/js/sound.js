@@ -4,7 +4,7 @@ $(document).ready(function() {
   /* NAV BAR: ASSIGN AUDIO */
 
   var sideNavItem1 = document.createElement('audio');
-  sideNavItem1.setAttribute('src', 'assets/audio/glitch2.mp3' , type="audio/mpeg" , preload="auto");
+  sideNavItem1.setAttribute('src', 'assets/audio/cricket.wav' , type="audio/mpeg" , preload="auto");
   $.get();
   sideNavItem1.addEventListener("load", function() {
     sideNavItem1.play();
@@ -39,21 +39,21 @@ $(document).ready(function() {
   }, true);
 
   var sideNavItem6 = document.createElement('audio');
-  sideNavItem6.setAttribute('src', 'assets/audio/parrot2.mp3' , type="audio/mpeg");
+  sideNavItem6.setAttribute('src', 'assets/audio/crack.mp3' , type="audio/mpeg");
   $.get();
   sideNavItem6.addEventListener("load", function() {
     sideNavItem6.play();
   }, true);
 
   var sideNavItem7 = document.createElement('audio');
-  sideNavItem7.setAttribute('src', 'assets/audio/glitch3.mp3' , type="audio/mpeg");
+  sideNavItem7.setAttribute('src', 'assets/audio/piano.mp3' , type="audio/mpeg");
   $.get();
   sideNavItem7.addEventListener("load", function() {
     sideNavItem7.play();
   }, true);
 
   var sideNavItem8 = document.createElement('audio');
-  sideNavItem8.setAttribute('src', 'assets/audio/glitch4.mp3' , type="audio/mpeg");
+  sideNavItem8.setAttribute('src', 'assets/audio/chirp.mp3' , type="audio/mpeg");
   $.get();
   sideNavItem8.addEventListener("load", function() {
     sideNavItem8.play();
@@ -110,6 +110,13 @@ $(document).ready(function() {
 
   var sideNavItem16 = document.createElement('audio');
   sideNavItem16.setAttribute('src', 'assets/audio/chime.mp3' , type="audio/mpeg");
+  $.get();
+  sideNavItem16.addEventListener("load", function() {
+    sideNavItem16.play();
+  }, true);
+
+  var sideNavItem16 = document.createElement('audio');
+  sideNavItem17.setAttribute('src', 'assets/audio/chime.mp3' , type="audio/mpeg");
   $.get();
   sideNavItem16.addEventListener("load", function() {
     sideNavItem16.play();
@@ -214,6 +221,12 @@ $(document).ready(function() {
   );
 
   $(".side-nav-item-16").hover(
+    function() {
+      sideNavItem16.play();
+    },
+  );
+
+  $(".side-nav-item-17").hover(
     function() {
       sideNavItem16.play();
     },
