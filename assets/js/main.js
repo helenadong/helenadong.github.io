@@ -151,6 +151,9 @@ $(function(){
        <div class="side-nav-item__link">
          <a class="a24-redrocket" href="./a24-redrocket.html">A24 • Red Rocket AR</a>
        </div>
+       <div class="side-nav-item__link">
+         <a class="nike-otf" href="./nike-otf.html">Nike • Own the Floor AR</a>
+       </div>
       
         <div class="side-nav-item__link">
           <a class="selfridges" href="./selfridges.html">Selfridges • Christmas of Dreams</a>
@@ -240,6 +243,9 @@ $(function(){
             </div>
             <div class="side-nav-item__link">
               <a class="side-nav-item-2 a24-redrocket" href="./a24-redrocket.html">A24 • Red Rocket AR</a>
+            </div>
+            <div class="side-nav-item__link">
+              <a class="side-nav-item-2 nike-otf" href="./nike-otf.html">Nike • Own the Floor</a>
             </div>
             <div class="side-nav-item__link">
               <a class="side-nav-item-3 selfridges" href="./selfridges.html">Selfridges • Christmas of Dreams</a>
