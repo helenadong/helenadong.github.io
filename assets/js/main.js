@@ -148,6 +148,10 @@ $(function(){
         <a class="optical-volume" href="./optical-volume.html">Optical Volume • Speculative Eyewear</a>
       </div>
 
+      <div class="side-nav-item__link">
+        <a class="prada-candy" href="./prada-candy.html">Prada • Candy — Rethink Reality</a>
+      </div>
+
        <div class="side-nav-item__link">
          <a class="a24-redrocket" href="./a24-redrocket.html">A24 • Red Rocket AR</a>
        </div>
@@ -241,6 +245,10 @@ $(function(){
             <div class="side-nav-item__link">
               <a class="side-nav-item-1 optical-volume" href="./optical-volume.html">Optical Volume • Speculative Eyewear </a>
             </div>
+            <div class="side-nav-item__link">
+            <a class="side-nav-item-1 prada-candy" href="./prada-candy.html">Prada • Candy — Rethink Reality </a>
+          </div>
+
             <div class="side-nav-item__link">
               <a class="side-nav-item-2 a24-redrocket" href="./a24-redrocket.html">A24 • Red Rocket AR</a>
             </div>
