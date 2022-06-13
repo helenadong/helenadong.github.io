@@ -198,8 +198,11 @@ $(function(){
         <span class="up--title large">Personal</span><br><br>
 
         <div class="side-nav-item__link">
-          <a class="ar-effects" href="./ar-effects.html">Augmented Reality Effects</a>
-        </div><br>
+          <a class="ar-effects" href="./ar-effects.html">AR Effects</a>
+        </div>
+        <div class="side-nav-item__link">
+        <a class="side-nav-item-15 vr" href="./inworld-vr-wip.html">InWorld VR Prototype</a>
+      </div><br>
         <div class="side-nav-item__link">
           <a class="scbc" href="./scbc.html">Scissors, Calculator and a Beige Coat</a>
         </div>
@@ -296,16 +299,19 @@ $(function(){
             <span class="up--title large">Personal</span><br><br>
 
             <div class="side-nav-item__link">
-              <a class="side-nav-item-14 ar-effects" href="./ar-effects.html">Augmented Reality Effects</a>
+              <a class="side-nav-item-14 ar-effects" href="./ar-effects.html">AR Effects</a>
+            </div>
+            <div class="side-nav-item__link">
+              <a class="side-nav-item-15 vr" href="./inworld-vr-wip.html">InWorld VR Prototype</a>
             </div><br>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-15 scbc" href="./scbc.html">Scissors, Calculator and a Beige Coat</a>
+              <a class="side-nav-item-16 scbc" href="./scbc.html">Scissors, Calculator and a Beige Coat</a>
             </div>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-16 pondering" href="./pondering-gestures.html">Pondering Gestures</a>
+              <a class="side-nav-item-17 pondering" href="./pondering-gestures.html">Pondering Gestures</a>
             </div>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-17 exercise-no-1" href="./exercise-no-1.html">
+              <a class="side-nav-item-18 exercise-no-1" href="./exercise-no-1.html">
                 Exercise N<span class="glyph">o</span>.1
               </a>
             </div>
