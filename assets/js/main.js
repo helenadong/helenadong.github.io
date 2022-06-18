@@ -166,9 +166,6 @@ $(function(){
           <a class="a24-lamb" href="./a24-lamb.html">A24 • Lamb AR</a>
        </div>
         <div class="side-nav-item__link">
-          <a class="bfc-june21" href="./bfc-lfw.html">British Fashion Council • LFW 2021</a>
-        </div>
-        <div class="side-nav-item__link">
           <a class="id-asia" href="./id-asia.html">i-D Asia • Bending Minds and Futures</a>
         </div>
         <div class="side-nav-item__link">
@@ -263,9 +260,6 @@ $(function(){
             </div>
             <div class="side-nav-item__link">
               <a class="side-nav-item-4 a24-lamb" href="./a24-lamb.html">A24 • Lamb AR</a>
-            </div>
-            <div class="side-nav-item__link">
-              <a class="side-nav-item-5 bfc-june21" href="./bfc-lfw.html">British Fashion Council • LFW 2021</a>
             </div>
             <div class="side-nav-item__link">
               <a class="side-nav-item-6 id-asia" href="./id-asia.html">i-D Asia • Bending Minds and Futures</a>
