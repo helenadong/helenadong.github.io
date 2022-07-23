@@ -176,9 +176,6 @@ $(function(){
           <a class="josephmark" href="./josephmark.html">Josephmark • UV—MicroPlastic</a>
         </div>
         <div class="side-nav-item__link">
-          <a class="danse-lente" href="./danse-lente.html">Danse Lente • SS21 in Nature</a>
-        </div>
-        <div class="side-nav-item__link">
           <a class="new-reader-reading-room" href="./new-reader-reading-room.html">New Reader • Reading Room</a>
         </div>
         <div class="side-nav-item__link">
@@ -272,9 +269,6 @@ $(function(){
             </div>
             <div class="side-nav-item__link">
               <a class="side-nav-item-10 josephmark" href="./josephmark.html">Josephmark • UV—MicroPlastic</a>
-            </div>
-            <div class="side-nav-item__link">
-              <a class="side-nav-item-11 danse-lente" href="./danse-lente.html">Danse Lente • SS21 in Nature</a>
             </div>
             <div class="side-nav-item__link">
               <a class="side-nav-item-12 new-reader-reading-room" href="./new-reader-reading-room.html">New Reader • Reading Room</a>
