@@ -145,6 +145,10 @@ $(function(){
         <span class="up--title large work-category">Collaborations</span><br><br>
 
         <div class="side-nav-item__link">
+        <a class="meta-canneslions" href="./meta-canneslions.html">Meta • The Flow at Cannes Lions</a>
+      </div>
+
+        <div class="side-nav-item__link">
         <a class="coachella" href="./coachella.html">Coachella • Third Contact </a>
       </div>
 
@@ -243,11 +247,17 @@ $(function(){
             <span class="up--title large">Collaborations</span> <br><br>
 
             <div class="side-nav-item__link">
+              <a class="side-nav-item-1 meta-canneslions" href="./meta-canneslions.html">Meta • The Flow at Cannes Lions </a>
+            </div>
+            
+            <div class="side-nav-item__link">
               <a class="side-nav-item-2 coachella" href="./coachella.html">Coachella • Third Contact </a>
             </div>
+           
             <div class="side-nav-item__link">
               <a class="side-nav-item-3 optical-volume" href="./optical-volume.html">Optical Volume • Speculative Eyewear </a>
             </div>
+            
             <div class="side-nav-item__link">
             <a class="side-nav-item-4 prada-candy" href="./prada-candy.html">Prada • Candy — Rethink Reality </a>
           </div>
