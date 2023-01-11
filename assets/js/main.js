@@ -187,7 +187,7 @@ $(function(){
         <a class="side-nav-item-15 vr" href="./inworld-vr.html">InWorld VR Prototype</a>
       </div>
       <div class="side-nav-item__link">
-      <a class="side-nav-item-15 vr">▋</a>
+      <a class="side-nav-item-15 vr">○</a>
     </div>
         <div class="side-nav-item__link">
           <a class="scbc" href="./scbc.html">Scissors, Calculator and a Beige Coat</a>
@@ -267,18 +267,10 @@ $(function(){
             <a class="side-nav-item-18 vr" href="./inworld-vr.html">InWorld VR Prototype</a>
           </div>
           <div class="side-nav-item__link">
-          <a class="side-nav-item-18 vr">▋</a>
+          <a class="side-nav-item-18 vr">○</a>
         </div>
             <div class="side-nav-item__link">
               <a class="side-nav-item-19 scbc" href="./scbc.html">Scissors, Calculator and a Beige Coat</a>
-            </div>
-            <div class="side-nav-item__link">
-              <a class="side-nav-item-20 pondering" href="./pondering-gestures.html">Pondering Gestures</a>
-            </div>
-            <div class="side-nav-item__link">
-              <a class="side-nav-item-21 exercise-no-1" href="./exercise-no-1.html">
-                Exercise N<span class="glyph">o</span>.1
-              </a>
             </div>
 
           </div>
