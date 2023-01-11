@@ -197,7 +197,10 @@ $(function(){
         </div>
         <div class="side-nav-item__link">
         <a class="side-nav-item-15 vr" href="./inworld-vr-wip.html">InWorld VR Prototype</a>
-      </div><br>
+      </div>
+      <div class="side-nav-item__link">
+      <a class="side-nav-item-15 vr">▋</a>
+    </div>
         <div class="side-nav-item__link">
           <a class="scbc" href="./scbc.html">Scissors, Calculator and a Beige Coat</a>
         </div>
@@ -291,9 +294,15 @@ $(function(){
             <div class="side-nav-item__link">
               <a class="side-nav-item-17 ar-effects" href="./ar-effects.html">AR Effects</a>
             </div>
+            // <div class="side-nav-item__link">
+            //   <a class="side-nav-item-18 vr" href="./inworld-vr-wip.html">InWorld VR Prototype</a>
+            // </div><br>
             <div class="side-nav-item__link">
-              <a class="side-nav-item-18 vr" href="./inworld-vr-wip.html">InWorld VR Prototype</a>
-            </div><br>
+            <a class="side-nav-item-18 vr" href="./inworld-vr-wip.html">InWorld VR Prototype</a>
+          </div>
+          <div class="side-nav-item__link">
+          <a class="side-nav-item-18 vr">▋</a>
+        </div>
             <div class="side-nav-item__link">
               <a class="side-nav-item-19 scbc" href="./scbc.html">Scissors, Calculator and a Beige Coat</a>
             </div>
