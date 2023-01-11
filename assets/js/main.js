@@ -196,7 +196,7 @@ $(function(){
           <a class="ar-effects" href="./ar-effects.html">AR Effects</a>
         </div>
         <div class="side-nav-item__link">
-        <a class="side-nav-item-15 vr" href="./inworld-vr-wip.html">InWorld VR Prototype</a>
+        <a class="side-nav-item-15 vr" href="./inworld-vr.html">InWorld VR Prototype</a>
       </div>
       <div class="side-nav-item__link">
       <a class="side-nav-item-15 vr">▋</a>
@@ -295,10 +295,10 @@ $(function(){
               <a class="side-nav-item-17 ar-effects" href="./ar-effects.html">AR Effects</a>
             </div>
             // <div class="side-nav-item__link">
-            //   <a class="side-nav-item-18 vr" href="./inworld-vr-wip.html">InWorld VR Prototype</a>
+            //   <a class="side-nav-item-18 vr" href="./inworld-vr.html">InWorld VR Prototype</a>
             // </div><br>
             <div class="side-nav-item__link">
-            <a class="side-nav-item-18 vr" href="./inworld-vr-wip.html">InWorld VR Prototype</a>
+            <a class="side-nav-item-18 vr" href="./inworld-vr.html">InWorld VR Prototype</a>
           </div>
           <div class="side-nav-item__link">
           <a class="side-nav-item-18 vr">▋</a>
