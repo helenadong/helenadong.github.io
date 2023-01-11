@@ -247,6 +247,7 @@ $(function(){
             </div>
             <div class="side-nav-item__link">
               <a class="side-nav-item-9 id-asia" href="./id-asia.html">i-D Asia • Bending Minds and Futures</a>
+              </div>
             <div class="side-nav-item__link">
               <a class="side-nav-item-12 new-reader-reading-room" href="./new-reader-reading-room.html">New Reader • Reading Room</a>
             </div>
