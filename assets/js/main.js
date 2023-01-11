@@ -169,21 +169,9 @@ $(function(){
         <div class="side-nav-item__link">
           <a class="id-asia" href="./id-asia.html">i-D Asia • Bending Minds and Futures</a>
         </div>
-        // <div class="side-nav-item__link">
-        //   <a class="josephmark" href="./josephmark.html">Josephmark • UV—MicroPlastic</a>
-        // </div>
         <div class="side-nav-item__link">
           <a class="new-reader-reading-room" href="./new-reader-reading-room.html">New Reader • Reading Room</a>
-        // </div>
-        // <div class="side-nav-item__link">
-        //   <a class="odda" href="./odda-korea-drops.html">Odda Magazine • Odda Korea Drops</a>
-        // </div>
-        // <div class="side-nav-item__link">
-        //   <a class="vogue-au" href="./vogue-au.html">Vogue AU • In a World of Pure Imagination</a>
-        // </div>
-        // <div class="side-nav-item__link">
-        //   <a class="byredo" href="./byredo-ar-beauty.html">Byredo • AR Beauty</a>
-        // </div>
+        </div>
         <div class="side-nav-item__link">
           <a class="vogue-us" href="./vogue-us.html">Vogue US • Ms. Iyaaa x Vogue</a>
         </div>
@@ -204,12 +192,6 @@ $(function(){
         <div class="side-nav-item__link">
           <a class="scbc" href="./scbc.html">Scissors, Calculator and a Beige Coat</a>
         </div>
-        // <div class="side-nav-item__link">
-        //   <a class="pondering" href="./pondering-gestures.html">Pondering Gestures</a>
-        // </div>
-        // <div class="side-nav-item__link">
-        //   <a class="exercise-no-1" href="./exercise-no-1.html">Exercise N<span class="glyph">o</span>.1</a>
-        // </div>
     </div>
 
 
@@ -265,22 +247,9 @@ $(function(){
             </div>
             <div class="side-nav-item__link">
               <a class="side-nav-item-9 id-asia" href="./id-asia.html">i-D Asia • Bending Minds and Futures</a>
-            </div>
-            // <div class="side-nav-item__link">
-            //   <a class="side-nav-item-10 josephmark" href="./josephmark.html">Josephmark • UV—MicroPlastic</a>
-            // </div>
             <div class="side-nav-item__link">
               <a class="side-nav-item-12 new-reader-reading-room" href="./new-reader-reading-room.html">New Reader • Reading Room</a>
             </div>
-            // <div class="side-nav-item__link">
-            //   <a class="side-nav-item-13 odda" href="./odda-korea-drops.html">Odda Magazine • Odda Korea Drops</a>
-            // </div>
-            // <div class="side-nav-item__link">
-            //   <a class="side-nav-item-14 vogue-au" href="./vogue-au.html">Vogue AU • In a World of Pure Imagination</a>
-            // </div>
-            // <div class="side-nav-item__link">
-            //   <a class="side-nav-item-15 byredo" href="./byredo-ar-beauty.html">Byredo • AR Beauty</a>
-            // </div>
             <div class="side-nav-item__link">
               <a class="side-nav-item-16 vogue-us" href="./vogue-us.html">Vogue US • Ms. Iyaaa x Vogue</a>
             </div>
@@ -294,9 +263,6 @@ $(function(){
             <div class="side-nav-item__link">
               <a class="side-nav-item-17 ar-effects" href="./ar-effects.html">AR Effects</a>
             </div>
-            // <div class="side-nav-item__link">
-            //   <a class="side-nav-item-18 vr" href="./inworld-vr.html">InWorld VR Prototype</a>
-            // </div><br>
             <div class="side-nav-item__link">
             <a class="side-nav-item-18 vr" href="./inworld-vr.html">InWorld VR Prototype</a>
           </div>
