@@ -86,7 +86,7 @@ and (orientation : portrait) {
 and (max-width : 680px) {
 
 html {
-	font-size: 10px !important;
+	font-size: 14px !important;
 }
 
 body {
