@@ -21,6 +21,18 @@ $(document).ready(function() {
 
     });
 
+    $('.buck--filter').click(function(event){
+      $('.item--null').addClass('show');
+      $('.item--image').addClass('hide');
+
+      $('.index-item.ar .item--image').removeClass('hide');
+      $('.index-item.ar .item--null').removeClass('show');
+
+      $('.filter').removeClass('highlight');
+
+      $(this).addClass('highlight');
+
+    });
 
     $('.ar--filter').click(function(event){
       $('.item--null').addClass('show');
@@ -174,7 +186,18 @@ $(document).ready(function() {
     });
 
 
+    $('.vr--filter').click(function(event){
+      $('.item--null').addClass('show');
+      $('.item--image').addClass('hide');
 
+      $('.index-item.ar .item--image').removeClass('hide');
+      $('.index-item.ar .item--null').removeClass('show');
+
+      $('.filter').removeClass('highlight');
+
+      $(this).addClass('highlight');
+
+    });
 
 
 
