@@ -25,8 +25,8 @@ $(document).ready(function() {
       $('.item--null').addClass('show');
       $('.item--image').addClass('hide');
 
-      $('.index-item.ar .item--image').removeClass('hide');
-      $('.index-item.ar .item--null').removeClass('show');
+      $('.index-item.buck .item--image').removeClass('hide');
+      $('.index-item.buck .item--null').removeClass('show');
 
       $('.filter').removeClass('highlight');
 
@@ -190,8 +190,8 @@ $(document).ready(function() {
       $('.item--null').addClass('show');
       $('.item--image').addClass('hide');
 
-      $('.index-item.ar .item--image').removeClass('hide');
-      $('.index-item.ar .item--null').removeClass('show');
+      $('.index-item.vr .item--image').removeClass('hide');
+      $('.index-item.vr .item--null').removeClass('show');
 
       $('.filter').removeClass('highlight');
 
