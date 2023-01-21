@@ -142,7 +142,7 @@ $(function(){
     <div class="flex-item--left work-item--left">
         <span class="nav-link nav-link--close">Close X</span><br><br><br>
 
-        <span class="up--title large work-category">Collaborations</span><br><br>
+        <span class="up--title large work-category">Work</span><br><br>
 
         <div class="side-nav-item__link">
         <a class="buck-meta-fendi" href="./buck-meta-fendi.html">Fendi • Faster </a>
@@ -235,7 +235,7 @@ $(function(){
 
         <div class="side-nav-item__container">
           <div class="spacer">
-            <span class="up--title large">Collaborations</span> <br><br>
+            <span class="up--title large">Work</span> <br><br>
 
             <div class="side-nav-item__link">
             <a class="side-nav-item-1 buck-meta-fendi" href="./buck-meta-fendi.html">Fendi • Faster </a>
