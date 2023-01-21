@@ -145,6 +145,19 @@ $(function(){
         <span class="up--title large work-category">Collaborations</span><br><br>
 
         <div class="side-nav-item__link">
+        <a class="buck-meta-fendi" href="./buck-meta-fendi.html">Fendi • Faster </a>
+         </div>
+
+        <div class="side-nav-item__link">
+        <a class="uck-meta-murakami" href="./buck-meta-murakami.html">Takashi Murakami • At The Broad </a>
+         </div>
+
+        <div class="side-nav-item__link">
+        <a class="buck-nike-50th-anniversary" href="./buck-nike-50th-anniversary.html">Nike • 50th Anniversary </a>
+         </div>
+
+
+        <div class="side-nav-item__link">
         <a class="meta-canneslions" href="./meta-canneslions.html">Meta • The Flow at Cannes Lions</a>
       </div>
 
@@ -223,6 +236,18 @@ $(function(){
         <div class="side-nav-item__container">
           <div class="spacer">
             <span class="up--title large">Collaborations</span> <br><br>
+
+            <div class="side-nav-item__link">
+            <a class="side-nav-item-1 buck-meta-fendi" href="./buck-meta-fendi.html">Fendi • Faster </a>
+             </div>
+
+            <div class="side-nav-item__link">
+            <a class="side-nav-item-1 buck-meta-murakami" href="./buck-meta-murakami.html">Takashi Murakami • At The Broad </a>
+             </div>
+
+            <div class="side-nav-item__link">
+            <a class="side-nav-item-1 buck-nike-50th-anniversary" href="./buck-nike-50th-anniversary.html">Nike • 50th Anniversary </a>
+             </div>
 
             <div class="side-nav-item__link">
               <a class="side-nav-item-1 meta-canneslions" href="./meta-canneslions.html">Meta • The Flow at Cannes Lions </a>
