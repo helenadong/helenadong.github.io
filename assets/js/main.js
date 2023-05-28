@@ -143,10 +143,13 @@ $(function(){
         <span class="nav-link nav-link--close">Close X</span><br><br><br>
 
         <span class="up--title large work-category">Work</span><br><br>
+        <div class="side-nav-item__link">
+        <a class="buck-meta-dior" href="./coachella-2023.html">Coachella • Holoflux's Rift </a>
+        </div>
 
         <div class="side-nav-item__link">
         <a class="buck-meta-dior" href="./buck-meta-dior.html">Dior • The Atelier of Dreams </a>
-         </div>
+        </div>
 
         <div class="side-nav-item__link">
         <a class="buck-meta-fendi" href="./buck-meta-fendi.html">Fendi • Faster </a>
@@ -154,43 +157,47 @@ $(function(){
 
         <div class="side-nav-item__link">
         <a class="uck-meta-murakami" href="./buck-meta-murakami.html">Takashi Murakami • At The Broad </a>
-         </div>
+        </div>
 
         <div class="side-nav-item__link">
         <a class="buck-nike-50th-anniversary" href="./buck-nike-50th-anniversary.html">Nike • 50th Anniversary </a>
-         </div>
+        </div>
 
 
         <div class="side-nav-item__link">
         <a class="meta-canneslions" href="./meta-canneslions.html">Meta • The Flow at Cannes Lions</a>
-      </div>
+        </div>
 
         <div class="side-nav-item__link">
         <a class="coachella" href="./coachella.html">Coachella • Third Contact </a>
-      </div>
+        </div>
 
         <div class="side-nav-item__link">
         <a class="optical-volume" href="./optical-volume.html">Optical Volume • Speculative Eyewear</a>
-      </div>
+        </div>
 
-      <div class="side-nav-item__link">
+        <div class="side-nav-item__link">
         <a class="prada-candy" href="./prada-candy.html">Prada • Candy — Rethink Reality</a>
-      </div>
-       <div class="side-nav-item__link">
-         <a class="nike-otf" href="./nike-otf.html">Nike • Own the Floor AR</a>
-       </div>
+        </div>
 
         <div class="side-nav-item__link">
-          <a class="a24-lamb" href="./a24-lamb.html">A24 • Lamb AR</a>
-       </div>
-        <div class="side-nav-item__link">
-          <a class="id-asia" href="./id-asia.html">i-D Asia • Bending Minds and Futures</a>
+        <a class="nike-otf" href="./nike-otf.html">Nike • Own the Floor AR</a>
         </div>
+
         <div class="side-nav-item__link">
-          <a class="new-reader-reading-room" href="./new-reader-reading-room.html">New Reader • Reading Room</a>
+        <a class="a24-lamb" href="./a24-lamb.html">A24 • Lamb AR</a>
         </div>
+
         <div class="side-nav-item__link">
-          <a class="vogue-us" href="./vogue-us.html">Vogue US • Ms. Iyaaa x Vogue</a>
+        <a class="id-asia" href="./id-asia.html">i-D Asia • Bending Minds and Futures</a>
+        </div>
+
+        <div class="side-nav-item__link">
+        <a class="new-reader-reading-room" href="./new-reader-reading-room.html">New Reader • Reading Room</a>
+        </div>
+
+        <div class="side-nav-item__link">
+        <a class="vogue-us" href="./vogue-us.html">Vogue US • Ms. Iyaaa x Vogue</a>
         </div>
 
         <br><br>
@@ -242,9 +249,13 @@ $(function(){
             <span class="up--title large">Work</span> <br><br>
 
             <div class="side-nav-item__link">
+            <a class="side-nav-item-1 coachella-2023" href="./coachella-2023.html">Coachella• Holoflux's Rift </a>
+            </div>
+
+            <div class="side-nav-item__link">
             <a class="side-nav-item-1 buck-meta-dior" href="./buck-meta-dior.html">Dior • The Atelier of Dreams </a>
              </div>
-            
+
             <div class="side-nav-item__link">
             <a class="side-nav-item-1 buck-meta-fendi" href="./buck-meta-fendi.html">Fendi • Faster </a>
              </div>
