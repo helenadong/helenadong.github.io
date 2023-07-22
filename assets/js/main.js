@@ -173,14 +173,6 @@ $(function(){
         </div>
 
         <div class="side-nav-item__link">
-        <a class="optical-volume" href="./optical-volume.html">Optical Volume • Speculative Eyewear</a>
-        </div>
-
-        <div class="side-nav-item__link">
-        <a class="prada-candy" href="./prada-candy.html">Prada • Candy — Rethink Reality</a>
-        </div>
-
-        <div class="side-nav-item__link">
         <a class="nike-otf" href="./nike-otf.html">Nike • Own the Floor AR</a>
         </div>
 
@@ -196,9 +188,6 @@ $(function(){
         <a class="new-reader-reading-room" href="./new-reader-reading-room.html">New Reader • Reading Room</a>
         </div>
 
-        <div class="side-nav-item__link">
-        <a class="vogue-us" href="./vogue-us.html">Vogue US • Ms. Iyaaa x Vogue</a>
-        </div>
 
         <br><br>
 
@@ -206,6 +195,9 @@ $(function(){
 
         <div class="side-nav-item__link">
           <a class="ar-effects" href="./ar-effects.html">AR Effects</a>
+        </div>
+        <div class="side-nav-item__link">
+        <a class="optical-volume" href="./optical-volume.html">Optical Volume • Speculative Eyewear</a>
         </div>
         <div class="side-nav-item__link">
         <a class="side-nav-item-15 vr" href="./inworld-vr.html">InWorld VR Prototype</a>
@@ -277,13 +269,6 @@ $(function(){
             </div>
 
             <div class="side-nav-item__link">
-              <a class="side-nav-item-3 optical-volume" href="./optical-volume.html">Optical Volume • Speculative Eyewear </a>
-            </div>
-
-            <div class="side-nav-item__link">
-            <a class="side-nav-item-4 prada-candy" href="./prada-candy.html">Prada • Candy — Rethink Reality </a>
-          </div>
-            <div class="side-nav-item__link">
               <a class="side-nav-item-6 nike-otf" href="./nike-otf.html">Nike • Own the Floor</a>
             </div>
             <div class="side-nav-item__link">
@@ -295,9 +280,6 @@ $(function(){
             <div class="side-nav-item__link">
               <a class="side-nav-item-12 new-reader-reading-room" href="./new-reader-reading-room.html">New Reader • Reading Room</a>
             </div>
-            <div class="side-nav-item__link">
-              <a class="side-nav-item-16 vogue-us" href="./vogue-us.html">Vogue US • Ms. Iyaaa x Vogue</a>
-            </div>
 
 
 
@@ -307,6 +289,9 @@ $(function(){
 
             <div class="side-nav-item__link">
               <a class="side-nav-item-17 ar-effects" href="./ar-effects.html">AR Effects</a>
+            </div>
+            <div class="side-nav-item__link">
+              <a class="side-nav-item-3 optical-volume" href="./optical-volume.html">Optical Volume • Speculative Eyewear </a>
             </div>
             <div class="side-nav-item__link">
             <a class="side-nav-item-18 vr" href="./inworld-vr.html">InWorld VR Prototype</a>
