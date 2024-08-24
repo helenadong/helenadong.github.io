@@ -145,8 +145,13 @@ $(function(){
         <span class="nav-link nav-link--close">Close X</span><br><br><br>
 
         <span class="up--title large work-category">Work</span><br><br>
+
         <div class="side-nav-item__link">
-        <a class="buck-meta-dior" href="./coachella-2023.html">Coachella • Holoflux's Rift </a>
+        <a class="philliplim-thefield" href="./philliplim-thefield.html">3.1 Phillip Lim • The Field</a>
+        </div>
+
+        <div class="side-nav-item__link">
+        <a class="coachella-2023" href="./coachella-2023.html">Coachella • Holoflux's Rift </a>
         </div>
 
         <div class="side-nav-item__link">
