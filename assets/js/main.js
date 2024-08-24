@@ -248,6 +248,10 @@ $(function(){
             <span class="up--title large">Work</span> <br><br>
 
             <div class="side-nav-item__link">
+            <a class="side-nav-item-1 philliplim-thefield" href="./philliplim-thefield.html">3.1 Phillip Lim • The Field </a>
+            </div>
+
+            <div class="side-nav-item__link">
             <a class="side-nav-item-1 coachella-2023" href="./coachella-2023.html">Coachella • Holoflux's Rift </a>
             </div>
 
