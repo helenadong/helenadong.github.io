@@ -14,80 +14,64 @@ $(document).ready(function() {
 /////// ALL CAPS ON PROJECT PAGE SELECT
 
 $(function(){
-  if($('body').is('.odda--page')){
-    $('.odda').addClass('up--title');
+  if($('body').is('.philliplim-thefield--page')){
+    $('.philliplim-thefield').addClass('up--title');
   }
-  if($('body').is('.vogue-au--page')){
-    $('.vogue-au').addClass('up--title');
+
+  if($('body').is('.coachella-2023--page')){
+    $('.coachella-2023').addClass('up--title');
   }
-  if($('body').is('.byredo--page')){
-    $('.byredo').addClass('up--title');
+
+  if($('body').is('.buck-meta-dior--page')){
+    $('.buck-meta-dior').addClass('up--title');
   }
-  if($('body').is('.wishtrend--page')){
-    $('.wishtrend').addClass('up--title');
+
+  if($('body').is('.buck-meta-fendi--page')){
+    $('.buck-meta-fendi').addClass('up--title');
   }
-  if($('body').is('.paco-rabanne--page')){
-    $('.paco-rabanne').addClass('up--title');
+
+  if($('body').is('.buck-meta-murakami--page')){
+    $('.buck-meta-murakami').addClass('up--title');
   }
-  if($('body').is('.vogue-us--page')){
-    $('.vogue-us').addClass('up--title');
+
+  if($('body').is('.buck-nike-50th-anniversary--page')){
+    $('.buck-nike-50th-anniversary').addClass('up--title');
   }
-  if($('body').is('.unisecon--page')){
-    $('.unisecon').addClass('up--title');
+
+  if($('body').is('.meta-canneslions--page')){
+    $('.meta-canneslions').addClass('up--title');
   }
-  if($('body').is('.liminal--page')){
-    $('.liminal').addClass('up--title');
+
+  if($('body').is('.coachella--page')){
+    $('.coachella').addClass('up--title');
   }
-  if($('body').is('.florist--page')){
-    $('.florist').addClass('up--title');
+
+  if($('body').is('.nike-otf--page')){
+    $('.nike-otf').addClass('up--title');
   }
-  if($('body').is('.tomihiro--page')){
-    $('.tomihiro').addClass('up--title');
+  
+  if($('body').is('.a24-lamb--page')){
+    $('.a24-lamb').addClass('up--title');
   }
-  if($('body').is('.peter-do--page')){
-    $('.peter-do').addClass('up--title');
-  }
-  if($('body').is('.vfiles--page')){
-    $('.vfiles').addClass('up--title');
-  }
-  if($('body').is('.far-near--page')){
-    $('.far-near').addClass('up--title');
-  }
-  if($('body').is('.vaquera--page')){
-    $('.vaquera').addClass('up--title');
-  }
-  if($('body').is('.ar-effects--page')){
-    $('.ar-effects').addClass('up--title');
-  }
-  if($('body').is('.scbc--page')){
-    $('.scbc').addClass('up--title');
-  }
-  if($('body').is('.pondering--page')){
-    $('.pondering').addClass('up--title');
-  }
-  if($('body').is('.exercise-no-1--page')){
-    $('.exercise-no-1').addClass('up--title');
-  }
+
   if($('body').is('.id-asia--page')){
     $('.id-asia').addClass('up--title');
   }
-  if($('body').is('.josephmark--page')){
-    $('.josephmark').addClass('up--title');
-  }
-  if($('body').is('.exhibition-mag--page')){
-    $('.exhibition-mag').addClass('up--title');
-  }
-  if($('body').is('.danse-lente--page')){
-    $('.danse-lente').addClass('up--title');
-  }
+
   if($('body').is('.new-reader-reading-room--page')){
     $('.new-reader-reading-room').addClass('up--title');
   }
-  if($('body').is('.bfc-june21--page')){
-    $('.bfc-june21').addClass('up--title');
+  
+  if($('body').is('.ar-effects--page')){
+    $('.ar-effects').addClass('up--title');
   }
-  if($('body').is('.bfc-feb21--page')){
-    $('.bfc-feb21').addClass('up--title');
+
+  if($('body').is('.optical-volume--page')){
+    $('.optical-volume').addClass('up--title');
+  }
+
+  if($('body').is('.scbc--page')){
+    $('.scbc').addClass('up--title');
   }
 
 });
@@ -201,18 +185,18 @@ $(function(){
         <span class="up--title large">Personal</span><br><br>
 
         <div class="side-nav-item__link">
-          <a class="ar-effects" href="./ar-effects.html">AR Effects</a>
+          <a class="ar-effects" href="./ar-effects.html">Social AR</a>
         </div>
+        
         <div class="side-nav-item__link">
-        <a class="optical-volume" href="./optical-volume.html">Optical Volume • Speculative Eyewear</a>
+        <a class="optical-volume" href="./optical-volume.html">Speculative Eyewear</a>
         </div>
-        <div class="side-nav-item__link">
-        <a class="side-nav-item-15 vr" href="./inworld-vr.html">InWorld VR Prototype</a>
-      </div>
+     
       <div class="side-nav-item__link">
       <a class="side-nav-item-15 vr">○</a>
-    </div>
-        <div class="side-nav-item__link">
+      </div>
+      
+      <div class="side-nav-item__link">
           <a class="scbc" href="./scbc.html">Scissors, Calculator and a Beige Coat</a>
         </div>
     </div>
@@ -299,20 +283,21 @@ $(function(){
             <span class="up--title large">Personal</span><br><br>
 
             <div class="side-nav-item__link">
-              <a class="side-nav-item-17 ar-effects" href="./ar-effects.html">AR Effects</a>
+              <a class="side-nav-item-17 ar-effects" href="./ar-effects.html">Social AR</a>
             </div>
+           
             <div class="side-nav-item__link">
-              <a class="side-nav-item-3 optical-volume" href="./optical-volume.html">Optical Volume • Speculative Eyewear </a>
+              <a class="side-nav-item-3 optical-volume" href="./optical-volume.html">Speculative Eyewear</a>
             </div>
-            <div class="side-nav-item__link">
-            <a class="side-nav-item-18 vr" href="./inworld-vr.html">InWorld VR Prototype</a>
-          </div>
+
+
           <div class="side-nav-item__link">
           <a class="side-nav-item-18 vr">○</a>
-        </div>
-            <div class="side-nav-item__link">
-              <a class="side-nav-item-19 scbc" href="./scbc.html">Scissors, Calculator and a Beige Coat</a>
-            </div>
+          </div>
+            
+          <div class="side-nav-item__link">
+            <a class="side-nav-item-19 scbc" href="./scbc.html">Scissors, Calculator and a Beige Coat</a>
+          </div>
 
           </div>
         </div>
