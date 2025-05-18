@@ -35,8 +35,11 @@ a {
 a:hover,
 .nav-link:hover,
 .text-link:hover,
-span.filter:hover {
-  cursor:url('../images/utilities/cursor__link.png'), auto !important;
+span.filter:hover,
+.side-nav-item__link a:hover {
+  color: #7f7f7f; /* ← Replace with your desired hover color */
+  cursor: url('../images/utilities/cursor__link.png'), auto !important;
+}
 }
 
 em {
