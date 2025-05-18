@@ -12,8 +12,8 @@ html {
 }
 
 body {
-  background-color: black;
-  color: white;
+  background-color: white;
+  color: black;
   font-family: 'Nimbus Sans L', arial, helvetica, sans-serif;
   line-height: 1.6;
 }
@@ -29,15 +29,13 @@ a .up--title {
 
 a {
   text-decoration: none;
-  color: white;
+  color: black;
 }
 
 a:hover,
 .nav-link:hover,
 .text-link:hover,
-span.filter:hover,
-.side-nav-item__link a:hover {
-  color: #7e7e7e; /* ← Replace with your desired hover color */ 
+span.filter:hover {
   cursor:url('../images/utilities/cursor__link.png'), auto !important;
 }
 
@@ -84,7 +82,7 @@ a:hover,
 	    -ms-flex-direction: row;
 	        flex-direction: row;
 	padding: 15px;
-  background-color: black;
+  background-color: white;
   border-bottom: 1.2px solid black;
   position: relative;
 }
@@ -118,8 +116,8 @@ a:hover,
   overflow: hidden;
   position: relative;
   display: block;
-  background-color: black;
-  border-bottom: 1.2px solid white;
+  background-color: white;
+  border-bottom: 1.2px solid black;
 }
 
 .slide__container {
@@ -378,8 +376,10 @@ span.category {
 }
 
 .item--null {
-	border: 1.2px solid white;
-  background: linear-gradient(to top right, black calc(50% - .8px), white, black calc(50% + .8px));
+	border: 1.2px solid black;
+  display: none;
+  background: -o-linear-gradient(bottom left, #fff calc(50% - .8px), black, #fff calc(50% + .8px) );
+  background: linear-gradient(to top right, #fff calc(50% - .8px), black, #fff calc(50% + .8px) )
 }
 
 .item--image img {
