@@ -379,10 +379,10 @@ span.category {
 }
 
 .item--null {
-	border: 1.2px solid black;
+	border: 1.2px solid white;
   display: none;
-  background: -o-linear-gradient(bottom left, #fff calc(50% - .8px), black, #fff calc(50% + .8px) );
-  background: linear-gradient(to top right, #fff calc(50% - .8px), black, #fff calc(50% + .8px) )
+  background: -o-linear-gradient(bottom left, #fff calc(50% - .8px), white, #fff calc(50% + .8px) );
+  background: linear-gradient(to top right, #fff calc(50% - .8px), white, #fff calc(50% + .8px) )
 }
 
 .item--image img {
